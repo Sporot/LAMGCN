@@ -1,0 +1,14 @@
+epochs: 25
+lstm_hidden_dimension: 300
+batch_size: 64
+d_a: 200
+emb_size: 300
+GPU: True
+use_cuda: True
+add_gcn: True
+add_syndrome: True
+add_herbatt: True
+if_save_model: False
+if_use_layer3: False
+model_path: 'save_model/best'
+save_path: '/data-nbd/songby/KEHB/logs/Their_data/ablation/A.log'
