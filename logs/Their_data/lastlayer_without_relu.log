@@ -1,0 +1,454 @@
+loading data... 
+
+806
+load done
+Running EPOCH 1
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.81it/s]
+epoch  1 train end : avg_loss = 0.0007
+precision@5 : 0.2059, precision@10 : 0.1545, precision@20 : 0.1160 
+ndcg@5 : 0.2432 , ndcg@10 : 0.2374 , ndcg@20 : 0.2757 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.33it/s]
+epoch  1 test end : avg_loss = 0.0007
+precision@5 : 0.2240 , precision@10 : 0.1720 , precision@20 : 0.1284 
+ndcg@5 : 0.2615 , ndcg@10 : 0.2561 , ndcg@20 : 0.2919 
+Running EPOCH 2
+100%|█████████████████████████████████████████| 411/411 [01:50<00:00,  3.72it/s]
+epoch  2 train end : avg_loss = 0.0006
+precision@5 : 0.2124, precision@10 : 0.1587, precision@20 : 0.1195 
+ndcg@5 : 0.2503 , ndcg@10 : 0.2440 , ndcg@20 : 0.2837 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.96it/s]
+epoch  2 test end : avg_loss = 0.0007
+precision@5 : 0.2280 , precision@10 : 0.1687 , precision@20 : 0.1302 
+ndcg@5 : 0.2611 , ndcg@10 : 0.2516 , ndcg@20 : 0.2898 
+Running EPOCH 3
+100%|█████████████████████████████████████████| 411/411 [01:54<00:00,  3.58it/s]
+epoch  3 train end : avg_loss = 0.0006
+precision@5 : 0.2136, precision@10 : 0.1604, precision@20 : 0.1202 
+ndcg@5 : 0.2516 , ndcg@10 : 0.2459 , ndcg@20 : 0.2851 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.91it/s]
+epoch  3 test end : avg_loss = 0.0007
+precision@5 : 0.2332 , precision@10 : 0.1756 , precision@20 : 0.1335 
+ndcg@5 : 0.2677 , ndcg@10 : 0.2610 , ndcg@20 : 0.2997 
+Running EPOCH 4
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch  4 train end : avg_loss = 0.0006
+precision@5 : 0.2206, precision@10 : 0.1664, precision@20 : 0.1242 
+ndcg@5 : 0.2578 , ndcg@10 : 0.2532 , ndcg@20 : 0.2935 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.58it/s]
+epoch  4 test end : avg_loss = 0.0007
+precision@5 : 0.2311 , precision@10 : 0.1821 , precision@20 : 0.1382 
+ndcg@5 : 0.2670 , ndcg@10 : 0.2675 , ndcg@20 : 0.3083 
+Running EPOCH 5
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.82it/s]
+epoch  5 train end : avg_loss = 0.0006
+precision@5 : 0.2282, precision@10 : 0.1744, precision@20 : 0.1297 
+ndcg@5 : 0.2651 , ndcg@10 : 0.2631 , ndcg@20 : 0.3048 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.25it/s]
+epoch  5 test end : avg_loss = 0.0007
+precision@5 : 0.2437 , precision@10 : 0.1926 , precision@20 : 0.1433 
+ndcg@5 : 0.2819 , ndcg@10 : 0.2830 , ndcg@20 : 0.3218 
+Running EPOCH 6
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.83it/s]
+epoch  6 train end : avg_loss = 0.0006
+precision@5 : 0.2336, precision@10 : 0.1814, precision@20 : 0.1343 
+ndcg@5 : 0.2730 , ndcg@10 : 0.2734 , ndcg@20 : 0.3165 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.24it/s]
+epoch  6 test end : avg_loss = 0.0006
+precision@5 : 0.2512 , precision@10 : 0.1951 , precision@20 : 0.1460 
+ndcg@5 : 0.2901 , ndcg@10 : 0.2898 , ndcg@20 : 0.3300 
+Running EPOCH 7
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.77it/s]
+epoch  7 train end : avg_loss = 0.0006
+precision@5 : 0.2419, precision@10 : 0.1876, precision@20 : 0.1388 
+ndcg@5 : 0.2817 , ndcg@10 : 0.2827 , ndcg@20 : 0.3269 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.01it/s]
+epoch  7 test end : avg_loss = 0.0006
+precision@5 : 0.2589 , precision@10 : 0.2058 , precision@20 : 0.1546 
+ndcg@5 : 0.2968 , ndcg@10 : 0.3014 , ndcg@20 : 0.3459 
+Running EPOCH 8
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch  8 train end : avg_loss = 0.0005
+precision@5 : 0.2601, precision@10 : 0.2039, precision@20 : 0.1502 
+ndcg@5 : 0.3011 , ndcg@10 : 0.3057 , ndcg@20 : 0.3533 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.85it/s]
+epoch  8 test end : avg_loss = 0.0006
+precision@5 : 0.2902 , precision@10 : 0.2288 , precision@20 : 0.1713 
+ndcg@5 : 0.3299 , ndcg@10 : 0.3355 , ndcg@20 : 0.3833 
+Running EPOCH 9
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch  9 train end : avg_loss = 0.0005
+precision@5 : 0.2848, precision@10 : 0.2247, precision@20 : 0.1638 
+ndcg@5 : 0.3286 , ndcg@10 : 0.3367 , ndcg@20 : 0.3874 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.88it/s]
+epoch  9 test end : avg_loss = 0.0006
+precision@5 : 0.2973 , precision@10 : 0.2420 , precision@20 : 0.1791 
+ndcg@5 : 0.3419 , ndcg@10 : 0.3552 , ndcg@20 : 0.4046 
+Running EPOCH 10
+100%|█████████████████████████████████████████| 411/411 [01:49<00:00,  3.75it/s]
+epoch 10 train end : avg_loss = 0.0005
+precision@5 : 0.2953, precision@10 : 0.2338, precision@20 : 0.1709 
+ndcg@5 : 0.3411 , ndcg@10 : 0.3512 , ndcg@20 : 0.4046 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.10it/s]
+epoch 10 test end : avg_loss = 0.0006
+precision@5 : 0.3146 , precision@10 : 0.2475 , precision@20 : 0.1851 
+ndcg@5 : 0.3570 , ndcg@10 : 0.3639 , ndcg@20 : 0.4166 
+Running EPOCH 11
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.81it/s]
+epoch 11 train end : avg_loss = 0.0005
+precision@5 : 0.3053, precision@10 : 0.2416, precision@20 : 0.1755 
+ndcg@5 : 0.3523 , ndcg@10 : 0.3631 , ndcg@20 : 0.4172 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.24it/s]
+epoch 11 test end : avg_loss = 0.0006
+precision@5 : 0.3170 , precision@10 : 0.2507 , precision@20 : 0.1857 
+ndcg@5 : 0.3609 , ndcg@10 : 0.3691 , ndcg@20 : 0.4203 
+Running EPOCH 12
+100%|█████████████████████████████████████████| 411/411 [01:49<00:00,  3.77it/s]
+epoch 12 train end : avg_loss = 0.0005
+precision@5 : 0.3151, precision@10 : 0.2481, precision@20 : 0.1799 
+ndcg@5 : 0.3638 , ndcg@10 : 0.3738 , ndcg@20 : 0.4290 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.93it/s]
+epoch 12 test end : avg_loss = 0.0006
+precision@5 : 0.3175 , precision@10 : 0.2522 , precision@20 : 0.1881 
+ndcg@5 : 0.3647 , ndcg@10 : 0.3750 , ndcg@20 : 0.4280 
+Running EPOCH 13
+100%|█████████████████████████████████████████| 411/411 [01:54<00:00,  3.58it/s]
+epoch 13 train end : avg_loss = 0.0005
+precision@5 : 0.3217, precision@10 : 0.2541, precision@20 : 0.1835 
+ndcg@5 : 0.3727 , ndcg@10 : 0.3843 , ndcg@20 : 0.4399 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.89it/s]
+epoch 13 test end : avg_loss = 0.0006
+precision@5 : 0.3219 , precision@10 : 0.2564 , precision@20 : 0.1897 
+ndcg@5 : 0.3661 , ndcg@10 : 0.3767 , ndcg@20 : 0.4288 
+Running EPOCH 14
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch 14 train end : avg_loss = 0.0005
+precision@5 : 0.3292, precision@10 : 0.2597, precision@20 : 0.1871 
+ndcg@5 : 0.3809 , ndcg@10 : 0.3928 , ndcg@20 : 0.4491 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.07it/s]
+epoch 14 test end : avg_loss = 0.0006
+precision@5 : 0.3276 , precision@10 : 0.2588 , precision@20 : 0.1922 
+ndcg@5 : 0.3709 , ndcg@10 : 0.3809 , ndcg@20 : 0.4347 
+Running EPOCH 15
+100%|█████████████████████████████████████████| 411/411 [01:52<00:00,  3.65it/s]
+epoch 15 train end : avg_loss = 0.0005
+precision@5 : 0.3383, precision@10 : 0.2659, precision@20 : 0.1909 
+ndcg@5 : 0.3912 , ndcg@10 : 0.4029 , ndcg@20 : 0.4597 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.14it/s]
+epoch 15 test end : avg_loss = 0.0006
+precision@5 : 0.3265 , precision@10 : 0.2588 , precision@20 : 0.1913 
+ndcg@5 : 0.3720 , ndcg@10 : 0.3826 , ndcg@20 : 0.4360 
+Running EPOCH 16
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.82it/s]
+epoch 16 train end : avg_loss = 0.0005
+precision@5 : 0.3455, precision@10 : 0.2719, precision@20 : 0.1941 
+ndcg@5 : 0.3999 , ndcg@10 : 0.4125 , ndcg@20 : 0.4694 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.06it/s]
+epoch 16 test end : avg_loss = 0.0006
+precision@5 : 0.3241 , precision@10 : 0.2572 , precision@20 : 0.1924 
+ndcg@5 : 0.3682 , ndcg@10 : 0.3785 , ndcg@20 : 0.4338 
+Running EPOCH 17
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.83it/s]
+epoch 17 train end : avg_loss = 0.0004
+precision@5 : 0.3546, precision@10 : 0.2776, precision@20 : 0.1979 
+ndcg@5 : 0.4111 , ndcg@10 : 0.4232 , ndcg@20 : 0.4811 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.16it/s]
+epoch 17 test end : avg_loss = 0.0006
+precision@5 : 0.3312 , precision@10 : 0.2602 , precision@20 : 0.1931 
+ndcg@5 : 0.3757 , ndcg@10 : 0.3848 , ndcg@20 : 0.4387 
+Running EPOCH 18
+100%|█████████████████████████████████████████| 411/411 [01:51<00:00,  3.67it/s]
+epoch 18 train end : avg_loss = 0.0004
+precision@5 : 0.3623, precision@10 : 0.2835, precision@20 : 0.2012 
+ndcg@5 : 0.4208 , ndcg@10 : 0.4331 , ndcg@20 : 0.4906 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.43it/s]
+epoch 18 test end : avg_loss = 0.0006
+precision@5 : 0.3242 , precision@10 : 0.2604 , precision@20 : 0.1921 
+ndcg@5 : 0.3704 , ndcg@10 : 0.3831 , ndcg@20 : 0.4360 
+Running EPOCH 19
+100%|█████████████████████████████████████████| 411/411 [01:56<00:00,  3.53it/s]
+epoch 19 train end : avg_loss = 0.0004
+precision@5 : 0.3695, precision@10 : 0.2890, precision@20 : 0.2044 
+ndcg@5 : 0.4294 , ndcg@10 : 0.4421 , ndcg@20 : 0.5000 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.94it/s]
+epoch 19 test end : avg_loss = 0.0006
+precision@5 : 0.3228 , precision@10 : 0.2578 , precision@20 : 0.1927 
+ndcg@5 : 0.3696 , ndcg@10 : 0.3815 , ndcg@20 : 0.4377 
+Running EPOCH 20
+100%|█████████████████████████████████████████| 411/411 [01:56<00:00,  3.54it/s]
+epoch 20 train end : avg_loss = 0.0004
+precision@5 : 0.3782, precision@10 : 0.2949, precision@20 : 0.2080 
+ndcg@5 : 0.4394 , ndcg@10 : 0.4522 , ndcg@20 : 0.5108 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.28it/s]
+epoch 20 test end : avg_loss = 0.0006
+precision@5 : 0.3213 , precision@10 : 0.2582 , precision@20 : 0.1912 
+ndcg@5 : 0.3667 , ndcg@10 : 0.3808 , ndcg@20 : 0.4339 
+Running EPOCH 21
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.80it/s]
+epoch 21 train end : avg_loss = 0.0004
+precision@5 : 0.3866, precision@10 : 0.3007, precision@20 : 0.2114 
+ndcg@5 : 0.4494 , ndcg@10 : 0.4620 , ndcg@20 : 0.5210 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.39it/s]
+epoch 21 test end : avg_loss = 0.0006
+precision@5 : 0.3207 , precision@10 : 0.2555 , precision@20 : 0.1931 
+ndcg@5 : 0.3674 , ndcg@10 : 0.3784 , ndcg@20 : 0.4367 
+Running EPOCH 22
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.80it/s]
+epoch 22 train end : avg_loss = 0.0004
+precision@5 : 0.3946, precision@10 : 0.3062, precision@20 : 0.2144 
+ndcg@5 : 0.4600 , ndcg@10 : 0.4724 , ndcg@20 : 0.5311 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.05it/s]
+epoch 22 test end : avg_loss = 0.0006
+precision@5 : 0.3240 , precision@10 : 0.2587 , precision@20 : 0.1921 
+ndcg@5 : 0.3671 , ndcg@10 : 0.3799 , ndcg@20 : 0.4339 
+Running EPOCH 23
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.78it/s]
+epoch 23 train end : avg_loss = 0.0004
+precision@5 : 0.4039, precision@10 : 0.3127, precision@20 : 0.2179 
+ndcg@5 : 0.4709 , ndcg@10 : 0.4831 , ndcg@20 : 0.5418 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.95it/s]
+epoch 23 test end : avg_loss = 0.0006
+precision@5 : 0.3212 , precision@10 : 0.2564 , precision@20 : 0.1899 
+ndcg@5 : 0.3682 , ndcg@10 : 0.3804 , ndcg@20 : 0.4346 
+Running EPOCH 24
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch 24 train end : avg_loss = 0.0004
+precision@5 : 0.4110, precision@10 : 0.3183, precision@20 : 0.2213 
+ndcg@5 : 0.4803 , ndcg@10 : 0.4935 , ndcg@20 : 0.5524 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.10it/s]
+epoch 24 test end : avg_loss = 0.0006
+precision@5 : 0.3192 , precision@10 : 0.2572 , precision@20 : 0.1911 
+ndcg@5 : 0.3642 , ndcg@10 : 0.3792 , ndcg@20 : 0.4337 
+Running EPOCH 25
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.54it/s]
+epoch 25 train end : avg_loss = 0.0004
+precision@5 : 0.4202, precision@10 : 0.3244, precision@20 : 0.2245 
+ndcg@5 : 0.4912 , ndcg@10 : 0.5043 , ndcg@20 : 0.5632 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.95it/s]
+epoch 25 test end : avg_loss = 0.0006
+precision@5 : 0.3102 , precision@10 : 0.2543 , precision@20 : 0.1889 
+ndcg@5 : 0.3540 , ndcg@10 : 0.3713 , ndcg@20 : 0.4248 
+Running EPOCH 26
+100%|█████████████████████████████████████████| 411/411 [01:49<00:00,  3.76it/s]
+epoch 26 train end : avg_loss = 0.0004
+precision@5 : 0.4278, precision@10 : 0.3298, precision@20 : 0.2279 
+ndcg@5 : 0.5003 , ndcg@10 : 0.5134 , ndcg@20 : 0.5728 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.35it/s]
+epoch 26 test end : avg_loss = 0.0006
+precision@5 : 0.3119 , precision@10 : 0.2541 , precision@20 : 0.1884 
+ndcg@5 : 0.3576 , ndcg@10 : 0.3737 , ndcg@20 : 0.4269 
+Running EPOCH 27
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.78it/s]
+epoch 27 train end : avg_loss = 0.0004
+precision@5 : 0.4375, precision@10 : 0.3365, precision@20 : 0.2313 
+ndcg@5 : 0.5131 , ndcg@10 : 0.5262 , ndcg@20 : 0.5853 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.41it/s]
+epoch 27 test end : avg_loss = 0.0006
+precision@5 : 0.3118 , precision@10 : 0.2533 , precision@20 : 0.1873 
+ndcg@5 : 0.3570 , ndcg@10 : 0.3725 , ndcg@20 : 0.4261 
+Running EPOCH 28
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.79it/s]
+epoch 28 train end : avg_loss = 0.0004
+precision@5 : 0.4459, precision@10 : 0.3423, precision@20 : 0.2342 
+ndcg@5 : 0.5241 , ndcg@10 : 0.5372 , ndcg@20 : 0.5959 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.34it/s]
+epoch 28 test end : avg_loss = 0.0006
+precision@5 : 0.3140 , precision@10 : 0.2545 , precision@20 : 0.1872 
+ndcg@5 : 0.3586 , ndcg@10 : 0.3749 , ndcg@20 : 0.4259 
+Running EPOCH 29
+100%|█████████████████████████████████████████| 411/411 [01:54<00:00,  3.59it/s]
+epoch 29 train end : avg_loss = 0.0004
+precision@5 : 0.4551, precision@10 : 0.3489, precision@20 : 0.2374 
+ndcg@5 : 0.5355 , ndcg@10 : 0.5487 , ndcg@20 : 0.6068 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.90it/s]
+epoch 29 test end : avg_loss = 0.0006
+precision@5 : 0.3125 , precision@10 : 0.2515 , precision@20 : 0.1877 
+ndcg@5 : 0.3556 , ndcg@10 : 0.3697 , ndcg@20 : 0.4249 
+Running EPOCH 30
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.57it/s]
+epoch 30 train end : avg_loss = 0.0004
+precision@5 : 0.4625, precision@10 : 0.3544, precision@20 : 0.2402 
+ndcg@5 : 0.5453 , ndcg@10 : 0.5593 , ndcg@20 : 0.6164 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.19it/s]
+epoch 30 test end : avg_loss = 0.0006
+precision@5 : 0.3161 , precision@10 : 0.2524 , precision@20 : 0.1880 
+ndcg@5 : 0.3584 , ndcg@10 : 0.3712 , ndcg@20 : 0.4258 
+Running EPOCH 31
+100%|█████████████████████████████████████████| 411/411 [01:52<00:00,  3.64it/s]
+epoch 31 train end : avg_loss = 0.0004
+precision@5 : 0.4710, precision@10 : 0.3596, precision@20 : 0.2432 
+ndcg@5 : 0.5555 , ndcg@10 : 0.5686 , ndcg@20 : 0.6263 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.09it/s]
+epoch 31 test end : avg_loss = 0.0006
+precision@5 : 0.3105 , precision@10 : 0.2467 , precision@20 : 0.1855 
+ndcg@5 : 0.3524 , ndcg@10 : 0.3629 , ndcg@20 : 0.4178 
+Running EPOCH 32
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.79it/s]
+epoch 32 train end : avg_loss = 0.0003
+precision@5 : 0.4801, precision@10 : 0.3665, precision@20 : 0.2464 
+ndcg@5 : 0.5669 , ndcg@10 : 0.5806 , ndcg@20 : 0.6376 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.16it/s]
+epoch 32 test end : avg_loss = 0.0006
+precision@5 : 0.3056 , precision@10 : 0.2476 , precision@20 : 0.1851 
+ndcg@5 : 0.3458 , ndcg@10 : 0.3613 , ndcg@20 : 0.4160 
+Running EPOCH 33
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.79it/s]
+epoch 33 train end : avg_loss = 0.0003
+precision@5 : 0.4872, precision@10 : 0.3714, precision@20 : 0.2489 
+ndcg@5 : 0.5773 , ndcg@10 : 0.5908 , ndcg@20 : 0.6472 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.22it/s]
+epoch 33 test end : avg_loss = 0.0006
+precision@5 : 0.3046 , precision@10 : 0.2464 , precision@20 : 0.1838 
+ndcg@5 : 0.3455 , ndcg@10 : 0.3600 , ndcg@20 : 0.4130 
+Running EPOCH 34
+100%|█████████████████████████████████████████| 411/411 [01:50<00:00,  3.71it/s]
+epoch 34 train end : avg_loss = 0.0003
+precision@5 : 0.4952, precision@10 : 0.3767, precision@20 : 0.2516 
+ndcg@5 : 0.5878 , ndcg@10 : 0.6016 , ndcg@20 : 0.6574 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.02it/s]
+epoch 34 test end : avg_loss = 0.0006
+precision@5 : 0.3062 , precision@10 : 0.2485 , precision@20 : 0.1851 
+ndcg@5 : 0.3483 , ndcg@10 : 0.3646 , ndcg@20 : 0.4174 
+Running EPOCH 35
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch 35 train end : avg_loss = 0.0003
+precision@5 : 0.5031, precision@10 : 0.3819, precision@20 : 0.2539 
+ndcg@5 : 0.5972 , ndcg@10 : 0.6105 , ndcg@20 : 0.6655 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.97it/s]
+epoch 35 test end : avg_loss = 0.0006
+precision@5 : 0.3023 , precision@10 : 0.2438 , precision@20 : 0.1824 
+ndcg@5 : 0.3417 , ndcg@10 : 0.3559 , ndcg@20 : 0.4097 
+Running EPOCH 36
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.57it/s]
+epoch 36 train end : avg_loss = 0.0003
+precision@5 : 0.5096, precision@10 : 0.3866, precision@20 : 0.2561 
+ndcg@5 : 0.6067 , ndcg@10 : 0.6201 , ndcg@20 : 0.6747 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.30it/s]
+epoch 36 test end : avg_loss = 0.0006
+precision@5 : 0.3024 , precision@10 : 0.2429 , precision@20 : 0.1810 
+ndcg@5 : 0.3418 , ndcg@10 : 0.3547 , ndcg@20 : 0.4069 
+Running EPOCH 37
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.84it/s]
+epoch 37 train end : avg_loss = 0.0003
+precision@5 : 0.5183, precision@10 : 0.3926, precision@20 : 0.2590 
+ndcg@5 : 0.6179 , ndcg@10 : 0.6313 , ndcg@20 : 0.6847 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.00it/s]
+epoch 37 test end : avg_loss = 0.0006
+precision@5 : 0.2969 , precision@10 : 0.2411 , precision@20 : 0.1812 
+ndcg@5 : 0.3361 , ndcg@10 : 0.3520 , ndcg@20 : 0.4062 
+Running EPOCH 38
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.81it/s]
+epoch 38 train end : avg_loss = 0.0003
+precision@5 : 0.5237, precision@10 : 0.3967, precision@20 : 0.2612 
+ndcg@5 : 0.6264 , ndcg@10 : 0.6401 , ndcg@20 : 0.6938 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.63it/s]
+epoch 38 test end : avg_loss = 0.0006
+precision@5 : 0.2988 , precision@10 : 0.2442 , precision@20 : 0.1808 
+ndcg@5 : 0.3392 , ndcg@10 : 0.3564 , ndcg@20 : 0.4077 
+Running EPOCH 39
+100%|█████████████████████████████████████████| 411/411 [01:50<00:00,  3.72it/s]
+epoch 39 train end : avg_loss = 0.0003
+precision@5 : 0.5315, precision@10 : 0.4019, precision@20 : 0.2635 
+ndcg@5 : 0.6350 , ndcg@10 : 0.6488 , ndcg@20 : 0.7014 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.12it/s]
+epoch 39 test end : avg_loss = 0.0006
+precision@5 : 0.2904 , precision@10 : 0.2364 , precision@20 : 0.1793 
+ndcg@5 : 0.3283 , ndcg@10 : 0.3448 , ndcg@20 : 0.4007 
+Running EPOCH 40
+100%|█████████████████████████████████████████| 411/411 [01:55<00:00,  3.56it/s]
+epoch 40 train end : avg_loss = 0.0003
+precision@5 : 0.5391, precision@10 : 0.4053, precision@20 : 0.2654 
+ndcg@5 : 0.6455 , ndcg@10 : 0.6576 , ndcg@20 : 0.7103 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.02it/s]
+epoch 40 test end : avg_loss = 0.0007
+precision@5 : 0.2963 , precision@10 : 0.2397 , precision@20 : 0.1794 
+ndcg@5 : 0.3352 , ndcg@10 : 0.3485 , ndcg@20 : 0.4009 
+Running EPOCH 41
+100%|█████████████████████████████████████████| 411/411 [01:56<00:00,  3.53it/s]
+epoch 41 train end : avg_loss = 0.0003
+precision@5 : 0.5458, precision@10 : 0.4111, precision@20 : 0.2676 
+ndcg@5 : 0.6538 , ndcg@10 : 0.6669 , ndcg@20 : 0.7180 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.03it/s]
+epoch 41 test end : avg_loss = 0.0007
+precision@5 : 0.2919 , precision@10 : 0.2383 , precision@20 : 0.1777 
+ndcg@5 : 0.3284 , ndcg@10 : 0.3461 , ndcg@20 : 0.3976 
+Running EPOCH 42
+100%|█████████████████████████████████████████| 411/411 [01:50<00:00,  3.71it/s]
+epoch 42 train end : avg_loss = 0.0003
+precision@5 : 0.5527, precision@10 : 0.4148, precision@20 : 0.2695 
+ndcg@5 : 0.6627 , ndcg@10 : 0.6748 , ndcg@20 : 0.7256 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.07it/s]
+epoch 42 test end : avg_loss = 0.0007
+precision@5 : 0.2896 , precision@10 : 0.2346 , precision@20 : 0.1769 
+ndcg@5 : 0.3309 , ndcg@10 : 0.3462 , ndcg@20 : 0.3989 
+Running EPOCH 43
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.78it/s]
+epoch 43 train end : avg_loss = 0.0003
+precision@5 : 0.5572, precision@10 : 0.4184, precision@20 : 0.2713 
+ndcg@5 : 0.6687 , ndcg@10 : 0.6812 , ndcg@20 : 0.7317 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.04it/s]
+epoch 43 test end : avg_loss = 0.0007
+precision@5 : 0.2958 , precision@10 : 0.2392 , precision@20 : 0.1778 
+ndcg@5 : 0.3376 , ndcg@10 : 0.3522 , ndcg@20 : 0.4036 
+Running EPOCH 44
+100%|█████████████████████████████████████████| 411/411 [01:47<00:00,  3.81it/s]
+epoch 44 train end : avg_loss = 0.0003
+precision@5 : 0.5647, precision@10 : 0.4232, precision@20 : 0.2732 
+ndcg@5 : 0.6779 , ndcg@10 : 0.6903 , ndcg@20 : 0.7395 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.53it/s]
+epoch 44 test end : avg_loss = 0.0007
+precision@5 : 0.2954 , precision@10 : 0.2357 , precision@20 : 0.1787 
+ndcg@5 : 0.3330 , ndcg@10 : 0.3451 , ndcg@20 : 0.3998 
+Running EPOCH 45
+100%|█████████████████████████████████████████| 411/411 [01:53<00:00,  3.61it/s]
+epoch 45 train end : avg_loss = 0.0003
+precision@5 : 0.5691, precision@10 : 0.4268, precision@20 : 0.2746 
+ndcg@5 : 0.6840 , ndcg@10 : 0.6968 , ndcg@20 : 0.7452 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  5.95it/s]
+epoch 45 test end : avg_loss = 0.0007
+precision@5 : 0.2885 , precision@10 : 0.2340 , precision@20 : 0.1749 
+ndcg@5 : 0.3292 , ndcg@10 : 0.3434 , ndcg@20 : 0.3947 
+Running EPOCH 46
+100%|█████████████████████████████████████████| 411/411 [01:56<00:00,  3.54it/s]
+epoch 46 train end : avg_loss = 0.0003
+precision@5 : 0.5755, precision@10 : 0.4310, precision@20 : 0.2763 
+ndcg@5 : 0.6917 , ndcg@10 : 0.7043 , ndcg@20 : 0.7518 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.13it/s]
+epoch 46 test end : avg_loss = 0.0007
+precision@5 : 0.2865 , precision@10 : 0.2361 , precision@20 : 0.1771 
+ndcg@5 : 0.3269 , ndcg@10 : 0.3451 , ndcg@20 : 0.3975 
+Running EPOCH 47
+100%|█████████████████████████████████████████| 411/411 [01:53<00:00,  3.63it/s]
+epoch 47 train end : avg_loss = 0.0003
+precision@5 : 0.5806, precision@10 : 0.4336, precision@20 : 0.2776 
+ndcg@5 : 0.6993 , ndcg@10 : 0.7110 , ndcg@20 : 0.7582 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.62it/s]
+epoch 47 test end : avg_loss = 0.0007
+precision@5 : 0.2908 , precision@10 : 0.2358 , precision@20 : 0.1751 
+ndcg@5 : 0.3322 , ndcg@10 : 0.3469 , ndcg@20 : 0.3969 
+Running EPOCH 48
+100%|█████████████████████████████████████████| 411/411 [01:48<00:00,  3.77it/s]
+epoch 48 train end : avg_loss = 0.0003
+precision@5 : 0.5871, precision@10 : 0.4378, precision@20 : 0.2792 
+ndcg@5 : 0.7065 , ndcg@10 : 0.7179 , ndcg@20 : 0.7640 
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  6.28it/s]
+epoch 48 test end : avg_loss = 0.0007
+precision@5 : 0.2908 , precision@10 : 0.2326 , precision@20 : 0.1748 
+ndcg@5 : 0.3315 , ndcg@10 : 0.3441 , ndcg@20 : 0.3967 
+Running EPOCH 49
+100%|█████████████████████████████████████████| 411/411 [01:49<00:00,  3.77it/s]
+epoch 49 train end : avg_loss = 0.0003
+precision@5 : 0.5921, precision@10 : 0.4417, precision@20 : 0.2807 
+ndcg@5 : 0.7141 , ndcg@10 : 0.7258 , ndcg@20 : 0.7713 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.02it/s]
+epoch 49 test end : avg_loss = 0.0007
+precision@5 : 0.2877 , precision@10 : 0.2284 , precision@20 : 0.1723 
+ndcg@5 : 0.3287 , ndcg@10 : 0.3382 , ndcg@20 : 0.3895 
+Running EPOCH 50
+100%|█████████████████████████████████████████| 411/411 [01:52<00:00,  3.65it/s]
+epoch 50 train end : avg_loss = 0.0003
+precision@5 : 0.5969, precision@10 : 0.4444, precision@20 : 0.2823 
+ndcg@5 : 0.7188 , ndcg@10 : 0.7301 , ndcg@20 : 0.7753 
+100%|███████████████████████████████████████████| 31/31 [00:05<00:00,  6.15it/s]
+epoch 50 test end : avg_loss = 0.0007
+precision@5 : 0.2839 , precision@10 : 0.2308 , precision@20 : 0.1734 
+ndcg@5 : 0.3232 , ndcg@10 : 0.3375 , ndcg@20 : 0.3884 

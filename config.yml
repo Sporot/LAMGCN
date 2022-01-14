@@ -10,5 +10,5 @@ add_syndrome: True
 add_herbatt: True
 if_save_model: False
 if_use_layer3: False
-model_path: 'save_model/best'
-save_path: '/data-nbd/songby/KEHB/logs/Their_data/ablation/A.log'
+model_path: 'save_model/test'
+save_path: 'logs/test.log'

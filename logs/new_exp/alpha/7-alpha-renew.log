@@ -1,0 +1,302 @@
+2021-12-18 18:43:23,517 - INFO - test - loading data...
+2021-12-18 18:43:27,452 - INFO - test - load done
+2021-12-18 18:43:34,829 - INFO - test - Running Epoch 1
+2021-12-18 18:45:58,265 - INFO - test - epoch  1 train end: avg_loss = 0.0035
+2021-12-18 18:45:58,265 - INFO - test - precision@5 : 0.2219, precision@10 : 0.1694, precision@20 : 0.1250 
+2021-12-18 18:45:58,265 - INFO - test - recall@5: 0.1602, recall@10: 0.2442, precision@20 : 0.3574
+2021-12-18 18:45:58,265 - INFO - test - ndcg@5 : 0.2612 , ndcg@10 : 0.2997 , ndcg@20 : 0.3290 
+2021-12-18 18:46:06,106 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 18:46:06,106 - INFO - test - epoch  1 test end : avg_loss = 0.0033
+2021-12-18 18:46:06,106 - INFO - test - precision@5 : 0.2608 , precision@10 : 0.2055 , precision@20 : 0.1528 
+2021-12-18 18:46:06,106 - INFO - test - recall@5 : 0.1868, recall@10 : 0.2837, precision@20 : 0.4083 
+2021-12-18 18:46:06,106 - INFO - test - ndcg@5 : 0.3037 , ndcg@10 : 0.3510 , ndcg@20 : 0.3820 
+2021-12-18 18:46:06,106 - INFO - test - Running Epoch 2
+2021-12-18 18:47:58,436 - INFO - test - epoch  2 train end: avg_loss = 0.0031
+2021-12-18 18:47:58,437 - INFO - test - precision@5 : 0.2692, precision@10 : 0.2113, precision@20 : 0.1545 
+2021-12-18 18:47:58,437 - INFO - test - recall@5: 0.2030, recall@10: 0.3140, precision@20 : 0.4527
+2021-12-18 18:47:58,437 - INFO - test - ndcg@5 : 0.3129 , ndcg@10 : 0.3700 , ndcg@20 : 0.4030 
+2021-12-18 18:48:05,492 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 18:48:05,492 - INFO - test - epoch  2 test end : avg_loss = 0.0029
+2021-12-18 18:48:05,492 - INFO - test - precision@5 : 0.3013 , precision@10 : 0.2387 , precision@20 : 0.1776 
+2021-12-18 18:48:05,492 - INFO - test - recall@5 : 0.2151, recall@10 : 0.3295, precision@20 : 0.4747 
+2021-12-18 18:48:05,492 - INFO - test - ndcg@5 : 0.3453 , ndcg@10 : 0.4040 , ndcg@20 : 0.4357 
+2021-12-18 18:48:05,492 - INFO - test - Running Epoch 3
+2021-12-18 18:49:57,603 - INFO - test - epoch  3 train end: avg_loss = 0.0030
+2021-12-18 18:49:57,603 - INFO - test - precision@5 : 0.2954, precision@10 : 0.2330, precision@20 : 0.1693 
+2021-12-18 18:49:57,603 - INFO - test - recall@5: 0.2295, recall@10: 0.3543, precision@20 : 0.5030
+2021-12-18 18:49:57,603 - INFO - test - ndcg@5 : 0.3443 , ndcg@10 : 0.4094 , ndcg@20 : 0.4437 
+2021-12-18 18:50:04,659 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 18:50:04,659 - INFO - test - epoch  3 test end : avg_loss = 0.0029
+2021-12-18 18:50:04,659 - INFO - test - precision@5 : 0.3152 , precision@10 : 0.2491 , precision@20 : 0.1856 
+2021-12-18 18:50:04,659 - INFO - test - recall@5 : 0.2293, recall@10 : 0.3485, precision@20 : 0.4999 
+2021-12-18 18:50:04,660 - INFO - test - ndcg@5 : 0.3609 , ndcg@10 : 0.4242 , ndcg@20 : 0.4580 
+2021-12-18 18:50:04,660 - INFO - test - Running Epoch 4
+2021-12-18 18:52:03,674 - INFO - test - epoch  4 train end: avg_loss = 0.0028
+2021-12-18 18:52:03,675 - INFO - test - precision@5 : 0.3148, precision@10 : 0.2473, precision@20 : 0.1784 
+2021-12-18 18:52:03,675 - INFO - test - recall@5: 0.2510, recall@10: 0.3829, precision@20 : 0.5361
+2021-12-18 18:52:03,675 - INFO - test - ndcg@5 : 0.3689 , ndcg@10 : 0.4373 , ndcg@20 : 0.4711 
+2021-12-18 18:52:10,819 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 18:52:10,819 - INFO - test - epoch  4 test end : avg_loss = 0.0029
+2021-12-18 18:52:10,819 - INFO - test - precision@5 : 0.3228 , precision@10 : 0.2562 , precision@20 : 0.1891 
+2021-12-18 18:52:10,819 - INFO - test - recall@5 : 0.2374, recall@10 : 0.3643, precision@20 : 0.5173 
+2021-12-18 18:52:10,819 - INFO - test - ndcg@5 : 0.3697 , ndcg@10 : 0.4354 , ndcg@20 : 0.4678 
+2021-12-18 18:52:10,819 - INFO - test - Running Epoch 5
+2021-12-18 18:54:28,128 - INFO - test - epoch  5 train end: avg_loss = 0.0027
+2021-12-18 18:54:28,129 - INFO - test - precision@5 : 0.3304, precision@10 : 0.2591, precision@20 : 0.1855 
+2021-12-18 18:54:28,129 - INFO - test - recall@5: 0.2694, recall@10: 0.4067, precision@20 : 0.5641
+2021-12-18 18:54:28,129 - INFO - test - ndcg@5 : 0.3893 , ndcg@10 : 0.4605 , ndcg@20 : 0.4950 
+2021-12-18 18:54:40,028 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 18:54:40,029 - INFO - test - epoch  5 test end : avg_loss = 0.0027
+2021-12-18 18:54:40,029 - INFO - test - precision@5 : 0.3280 , precision@10 : 0.2600 , precision@20 : 0.1915 
+2021-12-18 18:54:40,029 - INFO - test - recall@5 : 0.2450, recall@10 : 0.3716, precision@20 : 0.5211 
+2021-12-18 18:54:40,029 - INFO - test - ndcg@5 : 0.3762 , ndcg@10 : 0.4414 , ndcg@20 : 0.4746 
+2021-12-18 18:54:40,030 - INFO - test - Running Epoch 6
+2021-12-18 18:57:45,834 - INFO - test - epoch  6 train end: avg_loss = 0.0027
+2021-12-18 18:57:45,835 - INFO - test - precision@5 : 0.3448, precision@10 : 0.2687, precision@20 : 0.1916 
+2021-12-18 18:57:45,835 - INFO - test - recall@5: 0.2867, recall@10: 0.4286, precision@20 : 0.5893
+2021-12-18 18:57:45,835 - INFO - test - ndcg@5 : 0.4096 , ndcg@10 : 0.4827 , ndcg@20 : 0.5166 
+2021-12-18 18:57:57,913 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 18:57:57,913 - INFO - test - epoch  6 test end : avg_loss = 0.0027
+2021-12-18 18:57:57,914 - INFO - test - precision@5 : 0.3270 , precision@10 : 0.2603 , precision@20 : 0.1913 
+2021-12-18 18:57:57,914 - INFO - test - recall@5 : 0.2448, recall@10 : 0.3748, precision@20 : 0.5265 
+2021-12-18 18:57:57,914 - INFO - test - ndcg@5 : 0.3737 , ndcg@10 : 0.4419 , ndcg@20 : 0.4750 
+2021-12-18 18:57:57,914 - INFO - test - Running Epoch 7
+2021-12-18 19:01:02,054 - INFO - test - epoch  7 train end: avg_loss = 0.0026
+2021-12-18 19:01:02,055 - INFO - test - precision@5 : 0.3592, precision@10 : 0.2799, precision@20 : 0.1976 
+2021-12-18 19:01:02,055 - INFO - test - recall@5: 0.3066, recall@10: 0.4555, precision@20 : 0.6167
+2021-12-18 19:01:02,055 - INFO - test - ndcg@5 : 0.4309 , ndcg@10 : 0.5065 , ndcg@20 : 0.5395 
+2021-12-18 19:01:13,196 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:01:13,197 - INFO - test - epoch  7 test end : avg_loss = 0.0025
+2021-12-18 19:01:13,197 - INFO - test - precision@5 : 0.3228 , precision@10 : 0.2593 , precision@20 : 0.1909 
+2021-12-18 19:01:13,197 - INFO - test - recall@5 : 0.2404, recall@10 : 0.3736, precision@20 : 0.5231 
+2021-12-18 19:01:13,197 - INFO - test - ndcg@5 : 0.3687 , ndcg@10 : 0.4377 , ndcg@20 : 0.4726 
+2021-12-18 19:01:13,197 - INFO - test - Running Epoch 8
+2021-12-18 19:04:19,456 - INFO - test - epoch  8 train end: avg_loss = 0.0025
+2021-12-18 19:04:19,457 - INFO - test - precision@5 : 0.3729, precision@10 : 0.2893, precision@20 : 0.2030 
+2021-12-18 19:04:19,457 - INFO - test - recall@5: 0.3265, recall@10: 0.4790, precision@20 : 0.6392
+2021-12-18 19:04:19,457 - INFO - test - ndcg@5 : 0.4517 , ndcg@10 : 0.5283 , ndcg@20 : 0.5605 
+2021-12-18 19:04:30,578 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:04:30,579 - INFO - test - epoch  8 test end : avg_loss = 0.0024
+2021-12-18 19:04:30,579 - INFO - test - precision@5 : 0.3240 , precision@10 : 0.2582 , precision@20 : 0.1903 
+2021-12-18 19:04:30,579 - INFO - test - recall@5 : 0.2442, recall@10 : 0.3731, precision@20 : 0.5267 
+2021-12-18 19:04:30,579 - INFO - test - ndcg@5 : 0.3721 , ndcg@10 : 0.4403 , ndcg@20 : 0.4730 
+2021-12-18 19:04:30,579 - INFO - test - Running Epoch 9
+2021-12-18 19:07:35,004 - INFO - test - epoch  9 train end: avg_loss = 0.0024
+2021-12-18 19:07:35,005 - INFO - test - precision@5 : 0.3874, precision@10 : 0.2988, precision@20 : 0.2079 
+2021-12-18 19:07:35,005 - INFO - test - recall@5: 0.3472, recall@10: 0.5025, precision@20 : 0.6612
+2021-12-18 19:07:35,005 - INFO - test - ndcg@5 : 0.4747 , ndcg@10 : 0.5510 , ndcg@20 : 0.5826 
+2021-12-18 19:07:46,664 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:07:46,665 - INFO - test - epoch  9 test end : avg_loss = 0.0024
+2021-12-18 19:07:46,665 - INFO - test - precision@5 : 0.3208 , precision@10 : 0.2566 , precision@20 : 0.1911 
+2021-12-18 19:07:46,665 - INFO - test - recall@5 : 0.2374, recall@10 : 0.3675, precision@20 : 0.5218 
+2021-12-18 19:07:46,665 - INFO - test - ndcg@5 : 0.3633 , ndcg@10 : 0.4342 , ndcg@20 : 0.4683 
+2021-12-18 19:07:46,665 - INFO - test - Running Epoch 10
+2021-12-18 19:10:55,979 - INFO - test - epoch 10 train end: avg_loss = 0.0023
+2021-12-18 19:10:55,979 - INFO - test - precision@5 : 0.4009, precision@10 : 0.3077, precision@20 : 0.2124 
+2021-12-18 19:10:55,980 - INFO - test - recall@5: 0.3670, recall@10: 0.5242, precision@20 : 0.6802
+2021-12-18 19:10:55,980 - INFO - test - ndcg@5 : 0.4968 , ndcg@10 : 0.5727 , ndcg@20 : 0.6034 
+2021-12-18 19:11:06,908 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:11:06,908 - INFO - test - epoch 10 test end : avg_loss = 0.0023
+2021-12-18 19:11:06,908 - INFO - test - precision@5 : 0.3153 , precision@10 : 0.2525 , precision@20 : 0.1885 
+2021-12-18 19:11:06,909 - INFO - test - recall@5 : 0.2385, recall@10 : 0.3624, precision@20 : 0.5192 
+2021-12-18 19:11:06,909 - INFO - test - ndcg@5 : 0.3628 , ndcg@10 : 0.4331 , ndcg@20 : 0.4665 
+2021-12-18 19:11:06,909 - INFO - test - Running Epoch 11
+2021-12-18 19:14:12,513 - INFO - test - epoch 11 train end: avg_loss = 0.0022
+2021-12-18 19:14:12,514 - INFO - test - precision@5 : 0.4160, precision@10 : 0.3166, precision@20 : 0.2171 
+2021-12-18 19:14:12,514 - INFO - test - recall@5: 0.3875, recall@10: 0.5444, precision@20 : 0.6997
+2021-12-18 19:14:12,514 - INFO - test - ndcg@5 : 0.5201 , ndcg@10 : 0.5944 , ndcg@20 : 0.6240 
+2021-12-18 19:14:24,121 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:14:24,122 - INFO - test - epoch 11 test end : avg_loss = 0.0022
+2021-12-18 19:14:24,122 - INFO - test - precision@5 : 0.3130 , precision@10 : 0.2554 , precision@20 : 0.1877 
+2021-12-18 19:14:24,122 - INFO - test - recall@5 : 0.2320, recall@10 : 0.3667, precision@20 : 0.5157 
+2021-12-18 19:14:24,122 - INFO - test - ndcg@5 : 0.3596 , ndcg@10 : 0.4310 , ndcg@20 : 0.4664 
+2021-12-18 19:14:24,122 - INFO - test - Running Epoch 12
+2021-12-18 19:17:26,327 - INFO - test - epoch 12 train end: avg_loss = 0.0022
+2021-12-18 19:17:26,328 - INFO - test - precision@5 : 0.4289, precision@10 : 0.3244, precision@20 : 0.2208 
+2021-12-18 19:17:26,328 - INFO - test - recall@5: 0.4063, recall@10: 0.5634, precision@20 : 0.7155
+2021-12-18 19:17:26,328 - INFO - test - ndcg@5 : 0.5416 , ndcg@10 : 0.6147 , ndcg@20 : 0.6435 
+2021-12-18 19:17:38,119 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:17:38,120 - INFO - test - epoch 12 test end : avg_loss = 0.0022
+2021-12-18 19:17:38,120 - INFO - test - precision@5 : 0.3088 , precision@10 : 0.2488 , precision@20 : 0.1859 
+2021-12-18 19:17:38,120 - INFO - test - recall@5 : 0.2303, recall@10 : 0.3543, precision@20 : 0.5066 
+2021-12-18 19:17:38,120 - INFO - test - ndcg@5 : 0.3539 , ndcg@10 : 0.4242 , ndcg@20 : 0.4587 
+2021-12-18 19:17:38,120 - INFO - test - Running Epoch 13
+2021-12-18 19:20:47,840 - INFO - test - epoch 13 train end: avg_loss = 0.0021
+2021-12-18 19:20:47,841 - INFO - test - precision@5 : 0.4409, precision@10 : 0.3321, precision@20 : 0.2247 
+2021-12-18 19:20:47,841 - INFO - test - recall@5: 0.4237, recall@10: 0.5817, precision@20 : 0.7303
+2021-12-18 19:20:47,842 - INFO - test - ndcg@5 : 0.5621 , ndcg@10 : 0.6339 , ndcg@20 : 0.6620 
+2021-12-18 19:20:58,666 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:20:58,666 - INFO - test - epoch 13 test end : avg_loss = 0.0021
+2021-12-18 19:20:58,666 - INFO - test - precision@5 : 0.3067 , precision@10 : 0.2499 , precision@20 : 0.1862 
+2021-12-18 19:20:58,667 - INFO - test - recall@5 : 0.2269, recall@10 : 0.3560, precision@20 : 0.5074 
+2021-12-18 19:20:58,667 - INFO - test - ndcg@5 : 0.3473 , ndcg@10 : 0.4195 , ndcg@20 : 0.4530 
+2021-12-18 19:20:58,667 - INFO - test - Running Epoch 14
+2021-12-18 19:24:05,546 - INFO - test - epoch 14 train end: avg_loss = 0.0020
+2021-12-18 19:24:05,547 - INFO - test - precision@5 : 0.4538, precision@10 : 0.3406, precision@20 : 0.2285 
+2021-12-18 19:24:05,549 - INFO - test - recall@5: 0.4401, recall@10: 0.5992, precision@20 : 0.7440
+2021-12-18 19:24:05,549 - INFO - test - ndcg@5 : 0.5817 , ndcg@10 : 0.6520 , ndcg@20 : 0.6789 
+2021-12-18 19:24:17,132 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:24:17,133 - INFO - test - epoch 14 test end : avg_loss = 0.0019
+2021-12-18 19:24:17,133 - INFO - test - precision@5 : 0.3002 , precision@10 : 0.2450 , precision@20 : 0.1852 
+2021-12-18 19:24:17,133 - INFO - test - recall@5 : 0.2227, recall@10 : 0.3518, precision@20 : 0.5062 
+2021-12-18 19:24:17,133 - INFO - test - ndcg@5 : 0.3398 , ndcg@10 : 0.4147 , ndcg@20 : 0.4477 
+2021-12-18 19:24:17,133 - INFO - test - Running Epoch 15
+2021-12-18 19:27:21,239 - INFO - test - epoch 15 train end: avg_loss = 0.0019
+2021-12-18 19:27:21,240 - INFO - test - precision@5 : 0.4655, precision@10 : 0.3470, precision@20 : 0.2319 
+2021-12-18 19:27:21,240 - INFO - test - recall@5: 0.4546, recall@10: 0.6128, precision@20 : 0.7564
+2021-12-18 19:27:21,240 - INFO - test - ndcg@5 : 0.5992 , ndcg@10 : 0.6681 , ndcg@20 : 0.6943 
+2021-12-18 19:27:32,604 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:27:32,605 - INFO - test - epoch 15 test end : avg_loss = 0.0019
+2021-12-18 19:27:32,605 - INFO - test - precision@5 : 0.2938 , precision@10 : 0.2441 , precision@20 : 0.1832 
+2021-12-18 19:27:32,605 - INFO - test - recall@5 : 0.2149, recall@10 : 0.3457, precision@20 : 0.4984 
+2021-12-18 19:27:32,605 - INFO - test - ndcg@5 : 0.3308 , ndcg@10 : 0.4069 , ndcg@20 : 0.4404 
+2021-12-18 19:27:32,605 - INFO - test - Running Epoch 16
+2021-12-18 19:30:40,710 - INFO - test - epoch 16 train end: avg_loss = 0.0019
+2021-12-18 19:30:40,711 - INFO - test - precision@5 : 0.4766, precision@10 : 0.3538, precision@20 : 0.2345 
+2021-12-18 19:30:40,711 - INFO - test - recall@5: 0.4681, recall@10: 0.6278, precision@20 : 0.7665
+2021-12-18 19:30:40,711 - INFO - test - ndcg@5 : 0.6149 , ndcg@10 : 0.6816 , ndcg@20 : 0.7071 
+2021-12-18 19:30:51,816 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:30:51,817 - INFO - test - epoch 16 test end : avg_loss = 0.0017
+2021-12-18 19:30:51,817 - INFO - test - precision@5 : 0.2928 , precision@10 : 0.2436 , precision@20 : 0.1828 
+2021-12-18 19:30:51,818 - INFO - test - recall@5 : 0.2167, recall@10 : 0.3478, precision@20 : 0.4978 
+2021-12-18 19:30:51,818 - INFO - test - ndcg@5 : 0.3315 , ndcg@10 : 0.4077 , ndcg@20 : 0.4399 
+2021-12-18 19:30:51,818 - INFO - test - Running Epoch 17
+2021-12-18 19:33:57,983 - INFO - test - epoch 17 train end: avg_loss = 0.0018
+2021-12-18 19:33:57,984 - INFO - test - precision@5 : 0.4879, precision@10 : 0.3600, precision@20 : 0.2374 
+2021-12-18 19:33:57,984 - INFO - test - recall@5: 0.4820, recall@10: 0.6401, precision@20 : 0.7771
+2021-12-18 19:33:57,984 - INFO - test - ndcg@5 : 0.6315 , ndcg@10 : 0.6961 , ndcg@20 : 0.7208 
+2021-12-18 19:34:08,618 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:34:08,618 - INFO - test - epoch 17 test end : avg_loss = 0.0017
+2021-12-18 19:34:08,618 - INFO - test - precision@5 : 0.2932 , precision@10 : 0.2401 , precision@20 : 0.1814 
+2021-12-18 19:34:08,618 - INFO - test - recall@5 : 0.2155, recall@10 : 0.3395, precision@20 : 0.4948 
+2021-12-18 19:34:08,619 - INFO - test - ndcg@5 : 0.3268 , ndcg@10 : 0.4008 , ndcg@20 : 0.4335 
+2021-12-18 19:34:08,619 - INFO - test - Running Epoch 18
+2021-12-18 19:37:16,323 - INFO - test - epoch 18 train end: avg_loss = 0.0018
+2021-12-18 19:37:16,323 - INFO - test - precision@5 : 0.4972, precision@10 : 0.3666, precision@20 : 0.2406 
+2021-12-18 19:37:16,323 - INFO - test - recall@5: 0.4925, recall@10: 0.6523, precision@20 : 0.7876
+2021-12-18 19:37:16,323 - INFO - test - ndcg@5 : 0.6443 , ndcg@10 : 0.7084 , ndcg@20 : 0.7319 
+2021-12-18 19:37:27,282 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:37:27,282 - INFO - test - epoch 18 test end : avg_loss = 0.0019
+2021-12-18 19:37:27,282 - INFO - test - precision@5 : 0.2890 , precision@10 : 0.2385 , precision@20 : 0.1812 
+2021-12-18 19:37:27,282 - INFO - test - recall@5 : 0.2122, recall@10 : 0.3412, precision@20 : 0.4919 
+2021-12-18 19:37:27,283 - INFO - test - ndcg@5 : 0.3237 , ndcg@10 : 0.3998 , ndcg@20 : 0.4325 
+2021-12-18 19:37:27,283 - INFO - test - Running Epoch 19
+2021-12-18 19:40:35,639 - INFO - test - epoch 19 train end: avg_loss = 0.0017
+2021-12-18 19:40:35,639 - INFO - test - precision@5 : 0.5065, precision@10 : 0.3713, precision@20 : 0.2429 
+2021-12-18 19:40:35,640 - INFO - test - recall@5: 0.5028, recall@10: 0.6611, precision@20 : 0.7949
+2021-12-18 19:40:35,640 - INFO - test - ndcg@5 : 0.6579 , ndcg@10 : 0.7202 , ndcg@20 : 0.7436 
+2021-12-18 19:40:46,699 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:40:46,700 - INFO - test - epoch 19 test end : avg_loss = 0.0016
+2021-12-18 19:40:46,700 - INFO - test - precision@5 : 0.2900 , precision@10 : 0.2380 , precision@20 : 0.1823 
+2021-12-18 19:40:46,700 - INFO - test - recall@5 : 0.2152, recall@10 : 0.3390, precision@20 : 0.4960 
+2021-12-18 19:40:46,701 - INFO - test - ndcg@5 : 0.3263 , ndcg@10 : 0.4030 , ndcg@20 : 0.4356 
+2021-12-18 19:40:46,701 - INFO - test - Running Epoch 20
+2021-12-18 19:43:53,750 - INFO - test - epoch 20 train end: avg_loss = 0.0017
+2021-12-18 19:43:53,751 - INFO - test - precision@5 : 0.5158, precision@10 : 0.3778, precision@20 : 0.2454 
+2021-12-18 19:43:53,751 - INFO - test - recall@5: 0.5139, recall@10: 0.6732, precision@20 : 0.8038
+2021-12-18 19:43:53,751 - INFO - test - ndcg@5 : 0.6706 , ndcg@10 : 0.7315 , ndcg@20 : 0.7539 
+2021-12-18 19:44:04,612 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:44:04,612 - INFO - test - epoch 20 test end : avg_loss = 0.0018
+2021-12-18 19:44:04,612 - INFO - test - precision@5 : 0.2848 , precision@10 : 0.2365 , precision@20 : 0.1793 
+2021-12-18 19:44:04,612 - INFO - test - recall@5 : 0.2100, recall@10 : 0.3363, precision@20 : 0.4859 
+2021-12-18 19:44:04,612 - INFO - test - ndcg@5 : 0.3203 , ndcg@10 : 0.3956 , ndcg@20 : 0.4280 
+2021-12-18 19:44:04,613 - INFO - test - Running Epoch 21
+2021-12-18 19:47:13,129 - INFO - test - epoch 21 train end: avg_loss = 0.0016
+2021-12-18 19:47:13,130 - INFO - test - precision@5 : 0.5230, precision@10 : 0.3819, precision@20 : 0.2478 
+2021-12-18 19:47:13,130 - INFO - test - recall@5: 0.5220, recall@10: 0.6804, precision@20 : 0.8109
+2021-12-18 19:47:13,130 - INFO - test - ndcg@5 : 0.6799 , ndcg@10 : 0.7398 , ndcg@20 : 0.7617 
+2021-12-18 19:47:24,692 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:47:24,692 - INFO - test - epoch 21 test end : avg_loss = 0.0016
+2021-12-18 19:47:24,693 - INFO - test - precision@5 : 0.2833 , precision@10 : 0.2342 , precision@20 : 0.1781 
+2021-12-18 19:47:24,693 - INFO - test - recall@5 : 0.2102, recall@10 : 0.3374, precision@20 : 0.4853 
+2021-12-18 19:47:24,693 - INFO - test - ndcg@5 : 0.3194 , ndcg@10 : 0.3951 , ndcg@20 : 0.4275 
+2021-12-18 19:47:24,693 - INFO - test - Running Epoch 22
+2021-12-18 19:50:35,118 - INFO - test - epoch 22 train end: avg_loss = 0.0016
+2021-12-18 19:50:35,119 - INFO - test - precision@5 : 0.5334, precision@10 : 0.3883, precision@20 : 0.2501 
+2021-12-18 19:50:35,119 - INFO - test - recall@5: 0.5327, recall@10: 0.6914, precision@20 : 0.8175
+2021-12-18 19:50:35,119 - INFO - test - ndcg@5 : 0.6934 , ndcg@10 : 0.7510 , ndcg@20 : 0.7724 
+2021-12-18 19:50:46,327 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:50:46,327 - INFO - test - epoch 22 test end : avg_loss = 0.0018
+2021-12-18 19:50:46,327 - INFO - test - precision@5 : 0.2752 , precision@10 : 0.2305 , precision@20 : 0.1752 
+2021-12-18 19:50:46,327 - INFO - test - recall@5 : 0.1995, recall@10 : 0.3304, precision@20 : 0.4807 
+2021-12-18 19:50:46,327 - INFO - test - ndcg@5 : 0.3078 , ndcg@10 : 0.3857 , ndcg@20 : 0.4189 
+2021-12-18 19:50:46,327 - INFO - test - Running Epoch 23
+2021-12-18 19:53:52,707 - INFO - test - epoch 23 train end: avg_loss = 0.0016
+2021-12-18 19:53:52,707 - INFO - test - precision@5 : 0.5399, precision@10 : 0.3917, precision@20 : 0.2518 
+2021-12-18 19:53:52,707 - INFO - test - recall@5: 0.5398, recall@10: 0.6978, precision@20 : 0.8234
+2021-12-18 19:53:52,707 - INFO - test - ndcg@5 : 0.7023 , ndcg@10 : 0.7587 , ndcg@20 : 0.7796 
+2021-12-18 19:54:04,130 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:54:04,131 - INFO - test - epoch 23 test end : avg_loss = 0.0013
+2021-12-18 19:54:04,131 - INFO - test - precision@5 : 0.2787 , precision@10 : 0.2312 , precision@20 : 0.1771 
+2021-12-18 19:54:04,131 - INFO - test - recall@5 : 0.2048, recall@10 : 0.3262, precision@20 : 0.4817 
+2021-12-18 19:54:04,131 - INFO - test - ndcg@5 : 0.3119 , ndcg@10 : 0.3878 , ndcg@20 : 0.4200 
+2021-12-18 19:54:04,131 - INFO - test - Running Epoch 24
+2021-12-18 19:57:13,672 - INFO - test - epoch 24 train end: avg_loss = 0.0015
+2021-12-18 19:57:13,680 - INFO - test - precision@5 : 0.5455, precision@10 : 0.3962, precision@20 : 0.2536 
+2021-12-18 19:57:13,680 - INFO - test - recall@5: 0.5462, recall@10: 0.7067, precision@20 : 0.8296
+2021-12-18 19:57:13,681 - INFO - test - ndcg@5 : 0.7099 , ndcg@10 : 0.7662 , ndcg@20 : 0.7865 
+2021-12-18 19:57:25,550 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 19:57:25,550 - INFO - test - epoch 24 test end : avg_loss = 0.0014
+2021-12-18 19:57:25,550 - INFO - test - precision@5 : 0.2807 , precision@10 : 0.2324 , precision@20 : 0.1768 
+2021-12-18 19:57:25,550 - INFO - test - recall@5 : 0.2071, recall@10 : 0.3309, precision@20 : 0.4811 
+2021-12-18 19:57:25,551 - INFO - test - ndcg@5 : 0.3132 , ndcg@10 : 0.3885 , ndcg@20 : 0.4198 
+2021-12-18 19:57:25,551 - INFO - test - Running Epoch 25
+2021-12-18 20:00:32,108 - INFO - test - epoch 25 train end: avg_loss = 0.0015
+2021-12-18 20:00:32,109 - INFO - test - precision@5 : 0.5529, precision@10 : 0.4002, precision@20 : 0.2558 
+2021-12-18 20:00:32,109 - INFO - test - recall@5: 0.5543, recall@10: 0.7132, precision@20 : 0.8355
+2021-12-18 20:00:32,109 - INFO - test - ndcg@5 : 0.7194 , ndcg@10 : 0.7743 , ndcg@20 : 0.7940 
+2021-12-18 20:00:43,485 - INFO - test - 
+*****************evaluating****************
+
+2021-12-18 20:00:43,485 - INFO - test - epoch 25 test end : avg_loss = 0.0016
+2021-12-18 20:00:43,485 - INFO - test - precision@5 : 0.2851 , precision@10 : 0.2366 , precision@20 : 0.1775 
+2021-12-18 20:00:43,485 - INFO - test - recall@5 : 0.2153, recall@10 : 0.3359, precision@20 : 0.4805 
+2021-12-18 20:00:43,486 - INFO - test - ndcg@5 : 0.3202 , ndcg@10 : 0.3925 , ndcg@20 : 0.4263 

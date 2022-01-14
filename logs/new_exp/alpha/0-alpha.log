@@ -1,0 +1,30 @@
+2021-10-28 15:45:47,787 - INFO - test - loading data...
+2021-10-28 15:45:51,962 - INFO - test - load done
+2021-10-28 15:46:01,254 - INFO - test - Running Epoch 1
+2021-10-28 15:46:33,700 - INFO - test - loading data...
+2021-10-28 15:46:37,609 - INFO - test - load done
+2021-10-28 15:46:46,902 - INFO - test - Running Epoch 1
+2021-10-28 15:49:34,856 - INFO - test - epoch  1 train end: avg_loss = 0.0000
+2021-10-28 15:49:34,856 - INFO - test - precision@5 : 0.0045, precision@10 : 0.0048, precision@20 : 0.0052 
+2021-10-28 15:49:34,856 - INFO - test - recall@5: 0.0035, recall@10: 0.0073, precision@20 : 0.0154
+2021-10-28 15:49:34,856 - INFO - test - ndcg@5 : 0.0048 , ndcg@10 : 0.0094 , ndcg@20 : 0.0123 
+2021-10-28 15:49:45,132 - INFO - test - 
+*****************evaluating****************
+
+2021-10-28 15:49:45,132 - INFO - test - epoch  1 test end : avg_loss = 0.0000
+2021-10-28 15:49:45,132 - INFO - test - precision@5 : 0.0057 , precision@10 : 0.0057 , precision@20 : 0.0060 
+2021-10-28 15:49:45,132 - INFO - test - recall@5 : 0.0035, recall@10 : 0.0064, precision@20 : 0.0135 
+2021-10-28 15:49:45,132 - INFO - test - ndcg@5 : 0.0061 , ndcg@10 : 0.0098 , ndcg@20 : 0.0127 
+2021-10-28 15:49:45,132 - INFO - test - Running Epoch 2
+2021-10-28 15:52:32,245 - INFO - test - epoch  2 train end: avg_loss = -0.0000
+2021-10-28 15:52:32,245 - INFO - test - precision@5 : 0.0046, precision@10 : 0.0047, precision@20 : 0.0050 
+2021-10-28 15:52:32,245 - INFO - test - recall@5: 0.0036, recall@10: 0.0071, precision@20 : 0.0150
+2021-10-28 15:52:32,246 - INFO - test - ndcg@5 : 0.0051 , ndcg@10 : 0.0094 , ndcg@20 : 0.0123 
+2021-10-28 15:52:42,565 - INFO - test - 
+*****************evaluating****************
+
+2021-10-28 15:52:42,565 - INFO - test - epoch  2 test end : avg_loss = 0.0000
+2021-10-28 15:52:42,565 - INFO - test - precision@5 : 0.0068 , precision@10 : 0.0059 , precision@20 : 0.0065 
+2021-10-28 15:52:42,565 - INFO - test - recall@5 : 0.0045, recall@10 : 0.0073, precision@20 : 0.0148 
+2021-10-28 15:52:42,565 - INFO - test - ndcg@5 : 0.0069 , ndcg@10 : 0.0110 , ndcg@20 : 0.0141 
+2021-10-28 15:52:42,565 - INFO - test - Running Epoch 3

@@ -116,18 +116,14 @@ def train(attention_model, train_loader, test_loader, criterion, opt, epochs, GP
         epoch_prec = np.array(prec_k).mean(axis=0)
         epoch_recall = np.array(recall_k).mean(axis=0)
         epoch_ndcg = np.array(ndcg_k).mean(axis=0)
-        #logger.info('epoch %2d train end : avg_loss = %.4f'.format(i+1, avg_loss))
-        #logger.info('precision@5 : %.4f, precision@10 : %.4f, precision@20 : %.4f '.format(epoch_prec[4], epoch_prec[9], epoch_prec[19]))
-        #logger.info('ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f '.format(epoch_ndcg[4], epoch_ndcg[19],epoch_ndcg[29]))
+        # logger.info('epoch %2d train end : avg_loss = %.4f'.format(i+1, avg_loss))
+        # logger.info('precision@5 : %.4f, precision@10 : %.4f, precision@20 : %.4f '.format(epoch_prec[4], epoch_prec[9], epoch_prec[19]))
+        # logger.info('ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f '.format(epoch_ndcg[4], epoch_ndcg[19],epoch_ndcg[29]))
 
-        f_write.write('epoch %2d train end : avg_loss = %.4f' % (i + 1, avg_loss))
-        f_write.write('precision@5 : %.4f, precision@10 : %.4f, precision@20 : %.4f ' % (epoch_prec[4], epoch_prec[9], epoch_prec[19])+'\n')
-        f_write.write('recall@5 : %.4f, recall@10 : %.4f, precision@20 : %.4f ' % (epoch_recall[4], epoch_recall[9], epoch_recall[19])+'\n')
-        f_write.write('ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f ' % (epoch_ndcg[4], epoch_ndcg[19], epoch_ndcg[29])+'\n')
-        print('epoch %2d train end : avg_loss = %.4f' % (i + 1, avg_loss))
-        print('precision@5 : %.4f, precision@10 : %.4f, precision@20 : %.4f ' % (epoch_prec[4], epoch_prec[9], epoch_prec[19]))
-        print('recall@5 : %.4f, recall@10 : %.4f, precision@20 : %.4f ' % (epoch_recall[4], epoch_recall[9], epoch_recall[19]))
-        print('ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f ' % (epoch_ndcg[4], epoch_ndcg[19], epoch_ndcg[29]))
+       # print('epoch %2d train end : avg_loss = %.4f' % (i + 1, avg_loss))
+        # print('precision@5 : %.4f, precision@10 : %.4f, precision@20 : %.4f ' % (epoch_prec[4], epoch_prec[9], epoch_prec[19]))
+        # print('recall@5 : %.4f, recall@10 : %.4f, precision@20 : %.4f ' % (epoch_recall[4], epoch_recall[9], epoch_recall[19]))
+        # print('ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f ' % (epoch_ndcg[4], epoch_ndcg[19], epoch_ndcg[29]))
 
         test_acc_k = []
         test_recall_k = []
@@ -157,11 +153,7 @@ def train(attention_model, train_loader, test_loader, criterion, opt, epochs, GP
         #logger.info('epoch %2d test end : avg_loss= %.4f'.format(i+1, avg_test_loss))
         #logger.info('precision@5 : %.4f , precision@10 : %.4f , precision@20 : %.4f'.format(test_prec[4], test_prec[9], test_prec[19]))
         #logger.info('ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f'.format(test_ndcg[4], test_ndcg[19],test_ndcg[29]))
-        f_write.write('\n'+'--------------------------------------------------'+'\n')
-        f_write.write("epoch %2d test end : avg_loss = %.4f" % (i + 1, avg_test_loss)+'\n')
-        f_write.write("precision@5 : %.4f , precision@10 : %.4f , precision@20 : %.4f " % (test_prec[4], test_prec[9], test_prec[19])+'\n')
-        f_write.write('recall@5 : %.4f, recall@10 : %.4f, precision@20 : %.4f ' % (test_recall[4], test_recall[9], test_recall[19])+'\n')
-        f_write.write("ndcg@5 : %.4f , ndcg@10 : %.4f , ndcg@20 : %.4f " % (test_ndcg[4], test_ndcg[19], test_ndcg[29])+'\n')
+
         print("epoch %2d test end : avg_loss = %.4f" % (i + 1, avg_test_loss))
         print("precision@5 : %.4f , precision@10 : %.4f , precision@20 : %.4f " % (test_prec[4], test_prec[9], test_prec[19]))
         print('recall@5 : %.4f, recall@10 : %.4f, precision@20 : %.4f ' % (test_recall[4], test_recall[9], test_recall[19]))

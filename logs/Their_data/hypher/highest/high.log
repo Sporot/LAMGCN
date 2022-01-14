@@ -1,0 +1,240 @@
+epochs: 25
+lstm_hidden_dimension: 300
+batch_size: 64
+d_a: 200
+emb_size: 300
+GPU: True
+use_cuda: True
+add_gcn: True
+add_syndrome: True
+add_herbatt: True
+save_path: 'logs/Their_data/hypher/d_a/d_a_200.log'
+lr:0.001
+
+highest:
+
+epoch  1 train end : avg_loss = 0.0007precision@5 : 0.2099, precision@10 : 0.1586, precision@20 : 0.1191
+recall@5 : 0.1474, recall@10 : 0.2200, precision@20 : 0.3330 
+ndcg@5 : 0.2449 , ndcg@10 : 0.2802 , ndcg@20 : 0.3088 
+
+--------------------------------------------------
+epoch  1 test end : avg_loss = 0.0007
+precision@5 : 0.2293 , precision@10 : 0.1803 , precision@20 : 0.1367 
+recall@5 : 0.1531, recall@10 : 0.2358, precision@20 : 0.3522 
+ndcg@5 : 0.2649 , ndcg@10 : 0.3050 , ndcg@20 : 0.3347 
+epoch  2 train end : avg_loss = 0.0006precision@5 : 0.2370, precision@10 : 0.1857, precision@20 : 0.1379 
+recall@5 : 0.1695, recall@10 : 0.2638, precision@20 : 0.3908 
+ndcg@5 : 0.2746 , ndcg@10 : 0.3226 , ndcg@20 : 0.3545 
+
+--------------------------------------------------
+epoch  2 test end : avg_loss = 0.0006
+precision@5 : 0.2650 , precision@10 : 0.2126 , precision@20 : 0.1602 
+recall@5 : 0.1817, recall@10 : 0.2860, precision@20 : 0.4183 
+ndcg@5 : 0.3040 , ndcg@10 : 0.3566 , ndcg@20 : 0.3877 
+epoch  3 train end : avg_loss = 0.0005precision@5 : 0.2654, precision@10 : 0.2116, precision@20 : 0.1557 
+recall@5 : 0.1935, recall@10 : 0.3049, precision@20 : 0.4457 
+ndcg@5 : 0.3061 , ndcg@10 : 0.3640 , ndcg@20 : 0.3973 
+
+--------------------------------------------------
+epoch  3 test end : avg_loss = 0.0006
+precision@5 : 0.2907 , precision@10 : 0.2327 , precision@20 : 0.1743 
+recall@5 : 0.2035, recall@10 : 0.3161, precision@20 : 0.4575 
+ndcg@5 : 0.3308 , ndcg@10 : 0.3888 , ndcg@20 : 0.4219 
+epoch  4 train end : avg_loss = 0.0005precision@5 : 0.2848, precision@10 : 0.2258, precision@20 : 0.1652 
+recall@5 : 0.2108, recall@10 : 0.3300, precision@20 : 0.4760 
+ndcg@5 : 0.3269 , ndcg@10 : 0.3883 , ndcg@20 : 0.4228 
+
+--------------------------------------------------
+epoch  4 test end : avg_loss = 0.0006
+precision@5 : 0.3057 , precision@10 : 0.2447 , precision@20 : 0.1818 
+recall@5 : 0.2156, recall@10 : 0.3333, precision@20 : 0.4806 
+ndcg@5 : 0.3481 , ndcg@10 : 0.4083 , ndcg@20 : 0.4396 
+epoch  5 train end : avg_loss = 0.0005precision@5 : 0.2972, precision@10 : 0.2361, precision@20 : 0.1717 
+recall@5 : 0.2222, recall@10 : 0.3473, precision@20 : 0.4965 
+ndcg@5 : 0.3415 , ndcg@10 : 0.4053 , ndcg@20 : 0.4402 
+
+--------------------------------------------------
+epoch  5 test end : avg_loss = 0.0006
+precision@5 : 0.3176 , precision@10 : 0.2502 , precision@20 : 0.1868 
+recall@5 : 0.2279, recall@10 : 0.3453, precision@20 : 0.4965 
+ndcg@5 : 0.3613 , ndcg@10 : 0.4221 , ndcg@20 : 0.4531 
+epoch  6 train end : avg_loss = 0.0005precision@5 : 0.3100, precision@10 : 0.2444, precision@20 : 0.1778 
+recall@5 : 0.2347, recall@10 : 0.3625, precision@20 : 0.5158 
+ndcg@5 : 0.3560 , ndcg@10 : 0.4213 , ndcg@20 : 0.4556 
+
+--------------------------------------------------
+epoch  6 test end : avg_loss = 0.0006
+precision@5 : 0.3160 , precision@10 : 0.2572 , precision@20 : 0.1884 
+recall@5 : 0.2247, recall@10 : 0.3523, precision@20 : 0.4976 
+ndcg@5 : 0.3610 , ndcg@10 : 0.4246 , ndcg@20 : 0.4586 
+epoch  7 train end : avg_loss = 0.0005precision@5 : 0.3192, precision@10 : 0.2525, precision@20 : 0.1823 
+recall@5 : 0.2428, recall@10 : 0.3756, precision@20 : 0.5299 
+ndcg@5 : 0.3674 , ndcg@10 : 0.4343 , ndcg@20 : 0.4690 
+
+--------------------------------------------------
+epoch  7 test end : avg_loss = 0.0006
+precision@5 : 0.3264 , precision@10 : 0.2594 , precision@20 : 0.1915 
+recall@5 : 0.2336, recall@10 : 0.3600, precision@20 : 0.5114 
+ndcg@5 : 0.3715 , ndcg@10 : 0.4345 , ndcg@20 : 0.4660 
+epoch  8 train end : avg_loss = 0.0005precision@5 : 0.3282, precision@10 : 0.2592, precision@20 : 0.1870 
+recall@5 : 0.2513, recall@10 : 0.3867, precision@20 : 0.5449 
+ndcg@5 : 0.3779 , ndcg@10 : 0.4464 , ndcg@20 : 0.4808 
+
+--------------------------------------------------
+epoch  8 test end : avg_loss = 0.0006
+precision@5 : 0.3324 , precision@10 : 0.2604 , precision@20 : 0.1941 
+recall@5 : 0.2413, recall@10 : 0.3634, precision@20 : 0.5181 
+ndcg@5 : 0.3774 , ndcg@10 : 0.4408 , ndcg@20 : 0.4727 
+epoch  9 train end : avg_loss = 0.0005precision@5 : 0.3367, precision@10 : 0.2652, precision@20 : 0.1902 
+recall@5 : 0.2587, recall@10 : 0.3964, precision@20 : 0.5548 
+ndcg@5 : 0.3882 , ndcg@10 : 0.4565 , ndcg@20 : 0.4914 
+
+--------------------------------------------------
+epoch  9 test end : avg_loss = 0.0006
+precision@5 : 0.3254 , precision@10 : 0.2620 , precision@20 : 0.1939 
+recall@5 : 0.2325, recall@10 : 0.3674, precision@20 : 0.5186 
+ndcg@5 : 0.3707 , ndcg@10 : 0.4385 , ndcg@20 : 0.4713 
+epoch 10 train end : avg_loss = 0.0005precision@5 : 0.3460, precision@10 : 0.2717, precision@20 : 0.1944 
+recall@5 : 0.2681, recall@10 : 0.4085, precision@20 : 0.5693 
+ndcg@5 : 0.3991 , ndcg@10 : 0.4685 , ndcg@20 : 0.5030 
+
+--------------------------------------------------
+epoch 10 test end : avg_loss = 0.0006
+precision@5 : 0.3281 , precision@10 : 0.2648 , precision@20 : 0.1947 
+recall@5 : 0.2386, recall@10 : 0.3732, precision@20 : 0.5268 
+ndcg@5 : 0.3731 , ndcg@10 : 0.4431 , ndcg@20 : 0.4763 
+epoch 11 train end : avg_loss = 0.0005precision@5 : 0.3542, precision@10 : 0.2779, precision@20 : 0.1979 
+recall@5 : 0.2751, recall@10 : 0.4189, precision@20 : 0.5799 
+ndcg@5 : 0.4092 , ndcg@10 : 0.4791 , ndcg@20 : 0.5133 
+
+--------------------------------------------------
+epoch 11 test end : avg_loss = 0.0006
+precision@5 : 0.3316 , precision@10 : 0.2659 , precision@20 : 0.1951 
+recall@5 : 0.2380, recall@10 : 0.3702, precision@20 : 0.5244 
+ndcg@5 : 0.3765 , ndcg@10 : 0.4434 , ndcg@20 : 0.4765 
+epoch 12 train end : avg_loss = 0.0004precision@5 : 0.3622, precision@10 : 0.2838, precision@20 : 0.2017 
+recall@5 : 0.2837, recall@10 : 0.4292, precision@20 : 0.5928 
+ndcg@5 : 0.4185 , ndcg@10 : 0.4897 , ndcg@20 : 0.5237 
+
+--------------------------------------------------
+epoch 12 test end : avg_loss = 0.0006
+precision@5 : 0.3358 , precision@10 : 0.2634 , precision@20 : 0.1959 
+recall@5 : 0.2431, recall@10 : 0.3657, precision@20 : 0.5267 
+ndcg@5 : 0.3806 , ndcg@10 : 0.4458 , ndcg@20 : 0.4778 
+epoch 13 train end : avg_loss = 0.0004precision@5 : 0.3706, precision@10 : 0.2903, precision@20 : 0.2051 
+recall@5 : 0.2910, recall@10 : 0.4398, precision@20 : 0.6045 
+ndcg@5 : 0.4285 , ndcg@10 : 0.5001 , ndcg@20 : 0.5341 
+
+--------------------------------------------------
+epoch 13 test end : avg_loss = 0.0006
+precision@5 : 0.3310 , precision@10 : 0.2611 , precision@20 : 0.1938 
+recall@5 : 0.2393, recall@10 : 0.3663, precision@20 : 0.5235 
+ndcg@5 : 0.3769 , ndcg@10 : 0.4428 , ndcg@20 : 0.4758 
+epoch 14 train end : avg_loss = 0.0004precision@5 : 0.3778, precision@10 : 0.2954, precision@20 : 0.2085 
+recall@5 : 0.2980, recall@10 : 0.4502, precision@20 : 0.6156 
+ndcg@5 : 0.4383 , ndcg@10 : 0.5110 , ndcg@20 : 0.5447 
+
+--------------------------------------------------
+epoch 14 test end : avg_loss = 0.0006
+precision@5 : 0.3331 , precision@10 : 0.2629 , precision@20 : 0.1937 
+recall@5 : 0.2437, recall@10 : 0.3722, precision@20 : 0.5274 
+ndcg@5 : 0.3810 , ndcg@10 : 0.4459 , ndcg@20 : 0.4787 
+epoch 15 train end : avg_loss = 0.0004precision@5 : 0.3872, precision@10 : 0.3015, precision@20 : 0.2116 
+recall@5 : 0.3074, recall@10 : 0.4599, precision@20 : 0.6254 
+ndcg@5 : 0.4501 , ndcg@10 : 0.5214 , ndcg@20 : 0.5546 
+
+--------------------------------------------------
+epoch 15 test end : avg_loss = 0.0006
+precision@5 : 0.3266 , precision@10 : 0.2614 , precision@20 : 0.1934 
+recall@5 : 0.2362, recall@10 : 0.3656, precision@20 : 0.5227 
+ndcg@5 : 0.3751 , ndcg@10 : 0.4433 , ndcg@20 : 0.4767 
+epoch 16 train end : avg_loss = 0.0004precision@5 : 0.3941, precision@10 : 0.3073, precision@20 : 0.2152 
+recall@5 : 0.3144, recall@10 : 0.4704, precision@20 : 0.6373 
+ndcg@5 : 0.4583 , ndcg@10 : 0.5312 , ndcg@20 : 0.5642 
+
+--------------------------------------------------
+epoch 16 test end : avg_loss = 0.0006
+precision@5 : 0.3245 , precision@10 : 0.2591 , precision@20 : 0.1927 
+recall@5 : 0.2367, recall@10 : 0.3650, precision@20 : 0.5217 
+ndcg@5 : 0.3699 , ndcg@10 : 0.4393 , ndcg@20 : 0.4718 
+epoch 17 train end : avg_loss = 0.0004precision@5 : 0.4033, precision@10 : 0.3139, precision@20 : 0.2186 
+recall@5 : 0.3229, recall@10 : 0.4822, precision@20 : 0.6487 
+ndcg@5 : 0.4694 , ndcg@10 : 0.5424 , ndcg@20 : 0.5746 
+
+--------------------------------------------------
+epoch 17 test end : avg_loss = 0.0006
+precision@5 : 0.3296 , precision@10 : 0.2627 , precision@20 : 0.1939 
+recall@5 : 0.2398, recall@10 : 0.3692, precision@20 : 0.5202 
+ndcg@5 : 0.3763 , ndcg@10 : 0.4432 , ndcg@20 : 0.4791 
+epoch 18 train end : avg_loss = 0.0004precision@5 : 0.4110, precision@10 : 0.3193, precision@20 : 0.2214 
+recall@5 : 0.3306, recall@10 : 0.4905, precision@20 : 0.6573 
+ndcg@5 : 0.4793 , ndcg@10 : 0.5519 , ndcg@20 : 0.5840 
+
+--------------------------------------------------
+epoch 18 test end : avg_loss = 0.0006
+precision@5 : 0.3223 , precision@10 : 0.2579 , precision@20 : 0.1912 
+recall@5 : 0.2361, recall@10 : 0.3667, precision@20 : 0.5184 
+ndcg@5 : 0.3694 , ndcg@10 : 0.4388 , ndcg@20 : 0.4714 
+epoch 19 train end : avg_loss = 0.0004precision@5 : 0.4201, precision@10 : 0.3245, precision@20 : 0.2245 
+recall@5 : 0.3398, recall@10 : 0.5010, precision@20 : 0.6685 
+ndcg@5 : 0.4902 , ndcg@10 : 0.5623 , ndcg@20 : 0.5940 
+
+--------------------------------------------------
+epoch 19 test end : avg_loss = 0.0006
+precision@5 : 0.3206 , precision@10 : 0.2578 , precision@20 : 0.1908 
+recall@5 : 0.2345, recall@10 : 0.3631, precision@20 : 0.5168 
+ndcg@5 : 0.3699 , ndcg@10 : 0.4380 , ndcg@20 : 0.4701 
+epoch 20 train end : avg_loss = 0.0004precision@5 : 0.4278, precision@10 : 0.3308, precision@20 : 0.2274 
+recall@5 : 0.3478, recall@10 : 0.5134, precision@20 : 0.6794 
+ndcg@5 : 0.5007 , ndcg@10 : 0.5732 , ndcg@20 : 0.6044 
+
+--------------------------------------------------
+epoch 20 test end : avg_loss = 0.0006
+precision@5 : 0.3192 , precision@10 : 0.2565 , precision@20 : 0.1904 
+recall@5 : 0.2291, recall@10 : 0.3604, precision@20 : 0.5179 
+ndcg@5 : 0.3661 , ndcg@10 : 0.4357 , ndcg@20 : 0.4675 
+epoch 21 train end : avg_loss = 0.0004precision@5 : 0.4345, precision@10 : 0.3358, precision@20 : 0.2307 
+recall@5 : 0.3550, recall@10 : 0.5235, precision@20 : 0.6901 
+ndcg@5 : 0.5098 , ndcg@10 : 0.5832 , ndcg@20 : 0.6138 
+
+--------------------------------------------------
+epoch 21 test end : avg_loss = 0.0006
+precision@5 : 0.3197 , precision@10 : 0.2549 , precision@20 : 0.1892 
+recall@5 : 0.2333, recall@10 : 0.3600, precision@20 : 0.5124 
+ndcg@5 : 0.3626 , ndcg@10 : 0.4300 , ndcg@20 : 0.4633 
+epoch 22 train end : avg_loss = 0.0004precision@5 : 0.4426, precision@10 : 0.3416, precision@20 : 0.2336 
+recall@5 : 0.3639, recall@10 : 0.5324, precision@20 : 0.7000 
+ndcg@5 : 0.5207 , ndcg@10 : 0.5936 , ndcg@20 : 0.6236 
+
+--------------------------------------------------
+epoch 22 test end : avg_loss = 0.0006
+precision@5 : 0.3174 , precision@10 : 0.2540 , precision@20 : 0.1905 
+recall@5 : 0.2329, recall@10 : 0.3616, precision@20 : 0.5165 
+ndcg@5 : 0.3630 , ndcg@10 : 0.4328 , ndcg@20 : 0.4641 
+epoch 23 train end : avg_loss = 0.0004precision@5 : 0.4518, precision@10 : 0.3468, precision@20 : 0.2360 
+recall@5 : 0.3734, recall@10 : 0.5423, precision@20 : 0.7085 
+ndcg@5 : 0.5323 , ndcg@10 : 0.6038 , ndcg@20 : 0.6336 
+
+--------------------------------------------------
+epoch 23 test end : avg_loss = 0.0006
+precision@5 : 0.3099 , precision@10 : 0.2505 , precision@20 : 0.1867 
+recall@5 : 0.2268, recall@10 : 0.3550, precision@20 : 0.5072 
+ndcg@5 : 0.3539 , ndcg@10 : 0.4239 , ndcg@20 : 0.4559 
+epoch 24 train end : avg_loss = 0.0004precision@5 : 0.4603, precision@10 : 0.3527, precision@20 : 0.2388 
+recall@5 : 0.3822, recall@10 : 0.5534, precision@20 : 0.7175 
+ndcg@5 : 0.5435 , ndcg@10 : 0.6141 , ndcg@20 : 0.6437 
+
+--------------------------------------------------
+epoch 24 test end : avg_loss = 0.0006
+precision@5 : 0.3108 , precision@10 : 0.2486 , precision@20 : 0.1855 
+recall@5 : 0.2263, recall@10 : 0.3504, precision@20 : 0.5057 
+ndcg@5 : 0.3565 , ndcg@10 : 0.4238 , ndcg@20 : 0.4560 
+epoch 25 train end : avg_loss = 0.0004precision@5 : 0.4671, precision@10 : 0.3578, precision@20 : 0.2416 
+recall@5 : 0.3904, recall@10 : 0.5633, precision@20 : 0.7268 
+ndcg@5 : 0.5527 , ndcg@10 : 0.6236 , ndcg@20 : 0.6526 
+
+--------------------------------------------------
+epoch 25 test end : avg_loss = 0.0006
+precision@5 : 0.3160 , precision@10 : 0.2529 , precision@20 : 0.1880 
+recall@5 : 0.2293, recall@10 : 0.3552, precision@20 : 0.5083 
+ndcg@5 : 0.3605 , ndcg@10 : 0.4275 , ndcg@20 : 0.4605 

@@ -1,0 +1,227 @@
+Running EPOCH 1
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.34it/s]
+epoch  1 train end : avg_loss = 0.0007
+precision@5 : 0.2075, precision@10 : 0.1566, precision@20 : 0.1176
+ndcg@5 : 0.2436 , ndcg@10 : 0.2385 , ndcg@20 : 0.2777
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.56it/s]
+epoch  1 test end : avg_loss = 0.0007
+precision@5 : 0.2279 , precision@10 : 0.1773 , precision@20 : 0.1334
+ndcg@5 : 0.2642 , ndcg@10 : 0.2614 , ndcg@20 : 0.2999
+Running EPOCH 2
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.36it/s]
+epoch  2 train end : avg_loss = 0.0006
+precision@5 : 0.2347, precision@10 : 0.1824, precision@20 : 0.1353
+ndcg@5 : 0.2712 , ndcg@10 : 0.2727 , ndcg@20 : 0.3163
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.53it/s]
+epoch  2 test end : avg_loss = 0.0006
+precision@5 : 0.2620 , precision@10 : 0.2070 , precision@20 : 0.1561
+ndcg@5 : 0.2991 , ndcg@10 : 0.3024 , ndcg@20 : 0.3477
+Running EPOCH 3
+100%|█████████████████████████████████████████| 411/411 [01:33<00:00,  4.37it/s]
+epoch  3 train end : avg_loss = 0.0005
+precision@5 : 0.2601, precision@10 : 0.2067, precision@20 : 0.1522
+ndcg@5 : 0.2993 , ndcg@10 : 0.3070 , ndcg@20 : 0.3557
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.58it/s]
+epoch  3 test end : avg_loss = 0.0006
+precision@5 : 0.2815 , precision@10 : 0.2296 , precision@20 : 0.1715
+ndcg@5 : 0.3222 , ndcg@10 : 0.3336 , ndcg@20 : 0.3819
+Running EPOCH 4
+100%|█████████████████████████████████████████| 411/411 [01:33<00:00,  4.38it/s]
+epoch  4 train end : avg_loss = 0.0005
+precision@5 : 0.2822, precision@10 : 0.2236, precision@20 : 0.1637
+ndcg@5 : 0.3242 , ndcg@10 : 0.3332 , ndcg@20 : 0.3848
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.54it/s]
+epoch  4 test end : avg_loss = 0.0006
+precision@5 : 0.3028 , precision@10 : 0.2414 , precision@20 : 0.1807
+ndcg@5 : 0.3436 , ndcg@10 : 0.3527 , ndcg@20 : 0.4044
+Running EPOCH 5
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.37it/s]
+epoch  5 train end : avg_loss = 0.0005
+precision@5 : 0.2953, precision@10 : 0.2344, precision@20 : 0.1710
+ndcg@5 : 0.3391 , ndcg@10 : 0.3498 , ndcg@20 : 0.4027
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.56it/s]
+epoch  5 test end : avg_loss = 0.0006
+precision@5 : 0.3110 , precision@10 : 0.2478 , precision@20 : 0.1852
+ndcg@5 : 0.3537 , ndcg@10 : 0.3637 , ndcg@20 : 0.4158
+Running EPOCH 6
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.37it/s]
+epoch  6 train end : avg_loss = 0.0005
+precision@5 : 0.3070, precision@10 : 0.2432, precision@20 : 0.1766
+ndcg@5 : 0.3526 , ndcg@10 : 0.3640 , ndcg@20 : 0.4183
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.56it/s]
+epoch  6 test end : avg_loss = 0.0006
+precision@5 : 0.3203 , precision@10 : 0.2551 , precision@20 : 0.1895
+ndcg@5 : 0.3623 , ndcg@10 : 0.3723 , ndcg@20 : 0.4249
+Running EPOCH 7
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.36it/s]
+epoch  7 train end : avg_loss = 0.0005
+precision@5 : 0.3167, precision@10 : 0.2504, precision@20 : 0.1819
+ndcg@5 : 0.3644 , ndcg@10 : 0.3761 , ndcg@20 : 0.4321
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.54it/s]
+epoch  7 test end : avg_loss = 0.0006
+precision@5 : 0.3240 , precision@10 : 0.2597 , precision@20 : 0.1910
+ndcg@5 : 0.3688 , ndcg@10 : 0.3810 , ndcg@20 : 0.4332
+Running EPOCH 8
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch  8 train end : avg_loss = 0.0005
+precision@5 : 0.3252, precision@10 : 0.2573, precision@20 : 0.1858
+ndcg@5 : 0.3748 , ndcg@10 : 0.3873 , ndcg@20 : 0.4435
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.59it/s]
+epoch  8 test end : avg_loss = 0.0006
+precision@5 : 0.3229 , precision@10 : 0.2618 , precision@20 : 0.1928
+ndcg@5 : 0.3677 , ndcg@10 : 0.3820 , ndcg@20 : 0.4357
+Running EPOCH 9
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch  9 train end : avg_loss = 0.0005
+precision@5 : 0.3334, precision@10 : 0.2640, precision@20 : 0.1901
+ndcg@5 : 0.3844 , ndcg@10 : 0.3980 , ndcg@20 : 0.4549
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.54it/s]
+epoch  9 test end : avg_loss = 0.0006
+precision@5 : 0.3289 , precision@10 : 0.2639 , precision@20 : 0.1956
+ndcg@5 : 0.3750 , ndcg@10 : 0.3878 , ndcg@20 : 0.4424
+Running EPOCH 10
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch 10 train end : avg_loss = 0.0005
+precision@5 : 0.3425, precision@10 : 0.2697, precision@20 : 0.1938
+ndcg@5 : 0.3954 , ndcg@10 : 0.4081 , ndcg@20 : 0.4659
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.57it/s]
+epoch 10 test end : avg_loss = 0.0006
+precision@5 : 0.3337 , precision@10 : 0.2648 , precision@20 : 0.1958
+ndcg@5 : 0.3797 , ndcg@10 : 0.3905 , ndcg@20 : 0.4456
+Running EPOCH 11
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch 11 train end : avg_loss = 0.0005
+precision@5 : 0.3512, precision@10 : 0.2764, precision@20 : 0.1971
+ndcg@5 : 0.4054 , ndcg@10 : 0.4184 , ndcg@20 : 0.4759
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.53it/s]
+epoch 11 test end : avg_loss = 0.0006
+precision@5 : 0.3319 , precision@10 : 0.2632 , precision@20 : 0.1950
+ndcg@5 : 0.3797 , ndcg@10 : 0.3896 , ndcg@20 : 0.4448
+Running EPOCH 12
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch 12 train end : avg_loss = 0.0004
+precision@5 : 0.3591, precision@10 : 0.2818, precision@20 : 0.2010
+ndcg@5 : 0.4159 , ndcg@10 : 0.4290 , ndcg@20 : 0.4875
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.54it/s]
+epoch 12 test end : avg_loss = 0.0006
+precision@5 : 0.3309 , precision@10 : 0.2609 , precision@20 : 0.1943
+ndcg@5 : 0.3744 , ndcg@10 : 0.3850 , ndcg@20 : 0.4406
+Running EPOCH 13
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.37it/s]
+epoch 13 train end : avg_loss = 0.0004
+precision@5 : 0.3676, precision@10 : 0.2881, precision@20 : 0.2043
+ndcg@5 : 0.4254 , ndcg@10 : 0.4386 , ndcg@20 : 0.4973
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.56it/s]
+epoch 13 test end : avg_loss = 0.0006
+precision@5 : 0.3332 , precision@10 : 0.2647 , precision@20 : 0.1947
+ndcg@5 : 0.3816 , ndcg@10 : 0.3942 , ndcg@20 : 0.4476
+Running EPOCH 14
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.37it/s]
+epoch 14 train end : avg_loss = 0.0004
+precision@5 : 0.3755, precision@10 : 0.2940, precision@20 : 0.2076
+ndcg@5 : 0.4347 , ndcg@10 : 0.4490 , ndcg@20 : 0.5073
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.55it/s]
+epoch 14 test end : avg_loss = 0.0006
+precision@5 : 0.3281 , precision@10 : 0.2636 , precision@20 : 0.1945
+ndcg@5 : 0.3765 , ndcg@10 : 0.3908 , ndcg@20 : 0.4454
+Running EPOCH 15
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.37it/s]
+epoch 15 train end : avg_loss = 0.0004
+precision@5 : 0.3820, precision@10 : 0.2994, precision@20 : 0.2110
+ndcg@5 : 0.4431 , ndcg@10 : 0.4579 , ndcg@20 : 0.5171
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.53it/s]
+epoch 15 test end : avg_loss = 0.0006
+precision@5 : 0.3260 , precision@10 : 0.2601 , precision@20 : 0.1944
+ndcg@5 : 0.3725 , ndcg@10 : 0.3862 , ndcg@20 : 0.4429
+Running EPOCH 16
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.36it/s]
+epoch 16 train end : avg_loss = 0.0004
+precision@5 : 0.3910, precision@10 : 0.3058, precision@20 : 0.2144
+ndcg@5 : 0.4544 , ndcg@10 : 0.4691 , ndcg@20 : 0.5285
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.56it/s]
+epoch 16 test end : avg_loss = 0.0006
+precision@5 : 0.3259 , precision@10 : 0.2607 , precision@20 : 0.1933
+ndcg@5 : 0.3731 , ndcg@10 : 0.3860 , ndcg@20 : 0.4414
+Running EPOCH 17
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.36it/s]
+epoch 17 train end : avg_loss = 0.0004
+precision@5 : 0.3998, precision@10 : 0.3109, precision@20 : 0.2174
+ndcg@5 : 0.4646 , ndcg@10 : 0.4785 , ndcg@20 : 0.5380
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.55it/s]
+epoch 17 test end : avg_loss = 0.0006
+precision@5 : 0.3250 , precision@10 : 0.2627 , precision@20 : 0.1930
+ndcg@5 : 0.3731 , ndcg@10 : 0.3885 , ndcg@20 : 0.4427
+Running EPOCH 18
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.33it/s]
+epoch 18 train end : avg_loss = 0.0004
+precision@5 : 0.4068, precision@10 : 0.3172, precision@20 : 0.2207
+ndcg@5 : 0.4744 , ndcg@10 : 0.4898 , ndcg@20 : 0.5489
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.56it/s]
+epoch 18 test end : avg_loss = 0.0006
+precision@5 : 0.3226 , precision@10 : 0.2599 , precision@20 : 0.1923
+ndcg@5 : 0.3657 , ndcg@10 : 0.3817 , ndcg@20 : 0.4360
+Running EPOCH 19
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.34it/s]
+epoch 19 train end : avg_loss = 0.0004
+precision@5 : 0.4161, precision@10 : 0.3227, precision@20 : 0.2240
+ndcg@5 : 0.4852 , ndcg@10 : 0.4999 , ndcg@20 : 0.5591
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.53it/s]
+epoch 19 test end : avg_loss = 0.0006
+precision@5 : 0.3195 , precision@10 : 0.2587 , precision@20 : 0.1912
+ndcg@5 : 0.3662 , ndcg@10 : 0.3820 , ndcg@20 : 0.4363
+Running EPOCH 20
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch 20 train end : avg_loss = 0.0004
+precision@5 : 0.4235, precision@10 : 0.3282, precision@20 : 0.2268
+ndcg@5 : 0.4957 , ndcg@10 : 0.5106 , ndcg@20 : 0.5698
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.53it/s]
+epoch 20 test end : avg_loss = 0.0006
+precision@5 : 0.3234 , precision@10 : 0.2589 , precision@20 : 0.1914
+ndcg@5 : 0.3706 , ndcg@10 : 0.3832 , ndcg@20 : 0.4374
+Running EPOCH 21
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch 21 train end : avg_loss = 0.0004
+precision@5 : 0.4327, precision@10 : 0.3345, precision@20 : 0.2302
+ndcg@5 : 0.5063 , ndcg@10 : 0.5213 , ndcg@20 : 0.5802
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.52it/s]
+epoch 21 test end : avg_loss = 0.0006
+precision@5 : 0.3130 , precision@10 : 0.2559 , precision@20 : 0.1918
+ndcg@5 : 0.3596 , ndcg@10 : 0.3768 , ndcg@20 : 0.4344
+Running EPOCH 22
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.35it/s]
+epoch 22 train end : avg_loss = 0.0004
+precision@5 : 0.4400, precision@10 : 0.3394, precision@20 : 0.2329
+ndcg@5 : 0.5168 , ndcg@10 : 0.5316 , ndcg@20 : 0.5906
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.52it/s]
+epoch 22 test end : avg_loss = 0.0006
+precision@5 : 0.3102 , precision@10 : 0.2498 , precision@20 : 0.1869
+ndcg@5 : 0.3542 , ndcg@10 : 0.3686 , ndcg@20 : 0.4237
+Running EPOCH 23
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.36it/s]
+epoch 23 train end : avg_loss = 0.0004
+precision@5 : 0.4485, precision@10 : 0.3458, precision@20 : 0.2359
+ndcg@5 : 0.5275 , ndcg@10 : 0.5430 , ndcg@20 : 0.6010
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.53it/s]
+epoch 23 test end : avg_loss = 0.0006
+precision@5 : 0.3117 , precision@10 : 0.2528 , precision@20 : 0.1891
+ndcg@5 : 0.3550 , ndcg@10 : 0.3717 , ndcg@20 : 0.4264
+Running EPOCH 24
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.37it/s]
+epoch 24 train end : avg_loss = 0.0004
+precision@5 : 0.4575, precision@10 : 0.3523, precision@20 : 0.2387
+ndcg@5 : 0.5390 , ndcg@10 : 0.5548 , ndcg@20 : 0.6121
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.54it/s]
+epoch 24 test end : avg_loss = 0.0006
+precision@5 : 0.3086 , precision@10 : 0.2500 , precision@20 : 0.1846
+ndcg@5 : 0.3536 , ndcg@10 : 0.3699 , ndcg@20 : 0.4222
+Running EPOCH 25
+100%|█████████████████████████████████████████| 411/411 [01:34<00:00,  4.36it/s]
+epoch 25 train end : avg_loss = 0.0004
+precision@5 : 0.4635, precision@10 : 0.3561, precision@20 : 0.2414
+ndcg@5 : 0.5484 , ndcg@10 : 0.5640 , ndcg@20 : 0.6217
+100%|███████████████████████████████████████████| 31/31 [00:04<00:00,  7.54it/s]
+epoch 25 test end : avg_loss = 0.0006
+precision@5 : 0.3048 , precision@10 : 0.2480 , precision@20 : 0.1856
+ndcg@5 : 0.3449 , ndcg@10 : 0.3618 , ndcg@20 : 0.4160
+Running EPOCH 26
+  5%|██▏                                       | 21/411 [00:04<01:30,  4.32it/s]
